@@ -1,0 +1,22 @@
+2026-04-14 11:48:05,876 | MainThread   | [INFO    ] | get_logger          |: Logger demo_notebook.log initialized.
+2026-04-14 11:48:25,453 | MainThread   | [INFO    ] | get_logger          |: Logger demo_notebook.log already initialized.
+2026-04-14 11:49:07,467 | MainThread   | [INFO    ] | get_logger          |: Logger demo_notebook.log initialized.
+2026-04-14 12:08:30,320 | MainThread   | [INFO    ] | get_logger          |: Logger demo_notebook.log initialized.
+2026-04-14 12:12:52,302 | MainThread   | [INFO    ] | get_logger          |: Logger demo_notebook.log already initialized.
+2026-04-14 12:17:39,642 | MainThread   | [INFO    ] | get_logger          |: Logger demo_notebook.log already initialized.
+2026-04-14 12:18:28,794 | MainThread   | [INFO    ] | get_logger          |: Logger demo_notebook.log already initialized.
+2026-04-14 12:21:24,848 | MainThread   | [INFO    ] | get_logger          |: Logger demo_notebook.log already initialized.
+2026-04-14 12:33:33,506 | MainThread   | [INFO    ] | get_logger          |: Logger demo_notebook.log initialized.
+2026-04-14 12:36:34,326 | MainThread   | [INFO    ] | get_logger          |: Logger demo_notebook.log initialized.
+2026-04-15 14:12:33,311 | MainThread   | [INFO    ] | get_logger          |: Logger demo_notebook.log initialized.
+2026-04-15 14:20:53,189 | MainThread   | [INFO    ] | get_logger          |: Logger demo_notebook.log already initialized.
+2026-04-15 14:25:33,970 | MainThread   | [INFO    ] | get_logger          |: Logger demo_notebook.log initialized.
+2026-04-15 14:30:45,363 | MainThread   | [INFO    ] | get_logger          |: Logger demo_notebook.log already initialized.
+2026-04-15 14:47:05,783 | MainThread   | [INFO    ] | get_logger          |: Logger demo_notebook.log already initialized.
+2026-04-22 13:07:07,358 | MainThread   | [INFO    ] | get_logger          |: Logger demo_notebook.log initialized.
+2026-04-22 13:09:45,178 | MainThread   | [INFO    ] | get_logger          |: Logger demo_notebook.log already initialized.
+2026-04-22 15:19:38,807 | MainThread   | [INFO    ] | get_logger          |: Logger demo_notebook.log initialized.
+2026-04-22 15:28:01,343 | MainThread   | [INFO    ] | get_logger          |: Logger demo_notebook.log initialized.
+2026-04-22 15:34:03,682 | MainThread   | [INFO    ] | get_logger          |: Logger demo_notebook.log initialized.
+2026-04-22 15:39:20,854 | MainThread   | [INFO    ] | get_logger          |: Logger demo_notebook.log initialized.
+2026-04-22 15:44:06,993 | MainThread   | [INFO    ] | get_logger          |: Logger demo_notebook.log initialized.

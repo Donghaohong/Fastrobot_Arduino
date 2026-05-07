@@ -1,0 +1,340 @@
+2026-04-14 11:49:42,642 | MainThread   | [DEBUG   ] | run                 |: Python version: 3.12.10 (v3.12.10:0cc81280367, Apr  8 2025, 08:46:59) [Clang 13.0.0 (clang-1300.0.29.30)]
+2026-04-14 11:49:42,642 | MainThread   | [DEBUG   ] | run                 |: Parameters used:
+2026-04-14 11:49:42,642 | MainThread   | [DEBUG   ] | run                 |: Symbol               : o
+2026-04-14 11:49:42,642 | MainThread   | [DEBUG   ] | run                 |: Symbol size          : 5
+2026-04-14 11:49:42,642 | MainThread   | [DEBUG   ] | run                 |: Line thickness       : 2
+2026-04-14 11:49:42,642 | MainThread   | [DEBUG   ] | run                 |: Position tolerance   : 0.03
+2026-04-14 11:49:42,642 | MainThread   | [DEBUG   ] | run                 |: ------------------
+
+2026-04-14 11:51:47,291 | MainThread   | [DEBUG   ] | signal_handler      |: Received SIGTERM
+2026-04-14 11:51:47,291 | MainThread   | [DEBUG   ] | run                 |: Exiting gracefully...
+2026-04-14 11:51:52,641 | MainThread   | [DEBUG   ] | run                 |: Python version: 3.12.10 (v3.12.10:0cc81280367, Apr  8 2025, 08:46:59) [Clang 13.0.0 (clang-1300.0.29.30)]
+2026-04-14 11:51:52,641 | MainThread   | [DEBUG   ] | run                 |: Parameters used:
+2026-04-14 11:51:52,641 | MainThread   | [DEBUG   ] | run                 |: Symbol               : o
+2026-04-14 11:51:52,641 | MainThread   | [DEBUG   ] | run                 |: Symbol size          : 5
+2026-04-14 11:51:52,641 | MainThread   | [DEBUG   ] | run                 |: Line thickness       : 2
+2026-04-14 11:51:52,641 | MainThread   | [DEBUG   ] | run                 |: Position tolerance   : 0.03
+2026-04-14 11:51:52,641 | MainThread   | [DEBUG   ] | run                 |: ------------------
+
+2026-04-14 11:52:05,089 | MainThread   | [DEBUG   ] | reset_all_plots     |: Resetting trajectory plots...
+2026-04-14 11:52:47,136 | MainThread   | [DEBUG   ] | reset_all_plots     |: Resetting trajectory plots...
+2026-04-14 11:56:00,160 | MainThread   | [DEBUG   ] | hide_plot           |: Hide Odometry
+2026-04-14 11:56:00,609 | MainThread   | [DEBUG   ] | show_plot           |: Show Odometry
+2026-04-14 11:56:01,041 | MainThread   | [DEBUG   ] | hide_plot           |: Hide Odometry
+2026-04-14 11:56:01,925 | MainThread   | [DEBUG   ] | hide_plot           |: Hide Ground Truth
+2026-04-14 11:56:02,762 | MainThread   | [DEBUG   ] | hide_plot           |: Hide Belief
+2026-04-14 11:56:08,826 | MainThread   | [DEBUG   ] | hide_plot           |: Hide Map
+2026-04-14 11:56:09,486 | MainThread   | [DEBUG   ] | hide_plot           |: Hide Distribution
+2026-04-14 11:56:30,726 | MainThread   | [DEBUG   ] | show_plot           |: Show Odometry
+2026-04-14 11:56:31,169 | MainThread   | [DEBUG   ] | hide_plot           |: Hide Odometry
+2026-04-14 11:57:30,156 | MainThread   | [DEBUG   ] | reset_all_plots     |: Resetting trajectory plots...
+2026-04-14 11:58:28,813 | MainThread   | [DEBUG   ] | reset_all_plots     |: Resetting trajectory plots...
+2026-04-14 11:58:29,352 | MainThread   | [DEBUG   ] | show_plot           |: Show Odometry
+2026-04-14 11:58:29,936 | MainThread   | [DEBUG   ] | reset_all_plots     |: Resetting trajectory plots...
+2026-04-14 11:58:30,568 | MainThread   | [DEBUG   ] | show_plot           |: Show Ground Truth
+2026-04-14 11:58:31,675 | MainThread   | [DEBUG   ] | show_plot           |: Show Belief
+2026-04-14 11:58:32,138 | MainThread   | [DEBUG   ] | show_plot           |: Show Map
+2026-04-14 11:58:37,951 | MainThread   | [DEBUG   ] | hide_plot           |: Hide Map
+2026-04-14 11:58:38,455 | MainThread   | [DEBUG   ] | hide_plot           |: Hide Belief
+2026-04-14 11:58:48,223 | MainThread   | [DEBUG   ] | hide_plot           |: Hide Odometry
+2026-04-14 11:58:48,736 | MainThread   | [DEBUG   ] | hide_plot           |: Hide Ground Truth
+2026-04-14 11:59:45,813 | MainThread   | [DEBUG   ] | reset_all_plots     |: Resetting trajectory plots...
+2026-04-14 12:02:04,023 | MainThread   | [DEBUG   ] | show_plot           |: Show Belief
+2026-04-14 12:02:06,045 | MainThread   | [DEBUG   ] | hide_plot           |: Hide Belief
+2026-04-14 12:02:07,400 | MainThread   | [DEBUG   ] | reset_all_plots     |: Resetting trajectory plots...
+2026-04-14 12:03:26,703 | MainThread   | [DEBUG   ] | reset_all_plots     |: Resetting trajectory plots...
+2026-04-14 12:03:28,095 | MainThread   | [DEBUG   ] | show_plot           |: Show Odometry
+2026-04-14 12:03:35,042 | MainThread   | [DEBUG   ] | show_plot           |: Show Ground Truth
+2026-04-14 12:03:35,959 | MainThread   | [DEBUG   ] | show_plot           |: Show Belief
+2026-04-14 12:03:36,440 | MainThread   | [DEBUG   ] | show_plot           |: Show Map
+2026-04-14 12:03:36,967 | MainThread   | [DEBUG   ] | show_plot           |: Show Distribution
+2026-04-14 12:04:06,387 | MainThread   | [DEBUG   ] | hide_plot           |: Hide Belief
+2026-04-14 12:04:07,009 | MainThread   | [DEBUG   ] | hide_plot           |: Hide Ground Truth
+2026-04-14 12:04:08,397 | MainThread   | [DEBUG   ] | hide_plot           |: Hide Distribution
+2026-04-14 12:05:23,381 | MainThread   | [DEBUG   ] | hide_plot           |: Hide Map
+2026-04-14 12:05:50,843 | MainThread   | [DEBUG   ] | show_plot           |: Show Map
+2026-04-14 12:06:11,453 | MainThread   | [DEBUG   ] | signal_handler      |: Received SIGTERM
+2026-04-14 12:06:11,453 | MainThread   | [DEBUG   ] | run                 |: Exiting gracefully...
+2026-04-14 12:06:15,006 | MainThread   | [DEBUG   ] | run                 |: Python version: 3.12.10 (v3.12.10:0cc81280367, Apr  8 2025, 08:46:59) [Clang 13.0.0 (clang-1300.0.29.30)]
+2026-04-14 12:06:15,006 | MainThread   | [DEBUG   ] | run                 |: Parameters used:
+2026-04-14 12:06:15,006 | MainThread   | [DEBUG   ] | run                 |: Symbol               : o
+2026-04-14 12:06:15,006 | MainThread   | [DEBUG   ] | run                 |: Symbol size          : 5
+2026-04-14 12:06:15,006 | MainThread   | [DEBUG   ] | run                 |: Line thickness       : 2
+2026-04-14 12:06:15,006 | MainThread   | [DEBUG   ] | run                 |: Position tolerance   : 0.03
+2026-04-14 12:06:15,006 | MainThread   | [DEBUG   ] | run                 |: ------------------
+
+2026-04-14 12:06:28,642 | MainThread   | [DEBUG   ] | reset_all_plots     |: Resetting trajectory plots...
+2026-04-14 12:08:35,191 | MainThread   | [DEBUG   ] | run                 |: Python version: 3.12.10 (v3.12.10:0cc81280367, Apr  8 2025, 08:46:59) [Clang 13.0.0 (clang-1300.0.29.30)]
+2026-04-14 12:08:35,191 | MainThread   | [DEBUG   ] | run                 |: Parameters used:
+2026-04-14 12:08:35,191 | MainThread   | [DEBUG   ] | run                 |: Symbol               : o
+2026-04-14 12:08:35,191 | MainThread   | [DEBUG   ] | run                 |: Symbol size          : 5
+2026-04-14 12:08:35,191 | MainThread   | [DEBUG   ] | run                 |: Line thickness       : 2
+2026-04-14 12:08:35,191 | MainThread   | [DEBUG   ] | run                 |: Position tolerance   : 0.03
+2026-04-14 12:08:35,191 | MainThread   | [DEBUG   ] | run                 |: ------------------
+
+2026-04-14 12:08:55,899 | MainThread   | [DEBUG   ] | reset_all_plots     |: Resetting trajectory plots...
+2026-04-14 12:11:26,851 | MainThread   | [DEBUG   ] | reset_all_plots     |: Resetting trajectory plots...
+2026-04-14 12:11:30,019 | MainThread   | [DEBUG   ] | hide_plot           |: Hide Distribution
+2026-04-14 12:12:00,542 | MainThread   | [DEBUG   ] | reset_all_plots     |: Resetting trajectory plots...
+2026-04-14 12:12:02,109 | MainThread   | [DEBUG   ] | reset_all_plots     |: Resetting trajectory plots...
+2026-04-14 12:12:24,641 | MainThread   | [DEBUG   ] | reset_all_plots     |: Resetting trajectory plots...
+2026-04-14 12:12:55,719 | MainThread   | [DEBUG   ] | run                 |: Python version: 3.12.10 (v3.12.10:0cc81280367, Apr  8 2025, 08:46:59) [Clang 13.0.0 (clang-1300.0.29.30)]
+2026-04-14 12:12:55,719 | MainThread   | [DEBUG   ] | run                 |: Parameters used:
+2026-04-14 12:12:55,719 | MainThread   | [DEBUG   ] | run                 |: Symbol               : o
+2026-04-14 12:12:55,719 | MainThread   | [DEBUG   ] | run                 |: Symbol size          : 5
+2026-04-14 12:12:55,719 | MainThread   | [DEBUG   ] | run                 |: Line thickness       : 2
+2026-04-14 12:12:55,719 | MainThread   | [DEBUG   ] | run                 |: Position tolerance   : 0.03
+2026-04-14 12:12:55,719 | MainThread   | [DEBUG   ] | run                 |: ------------------
+
+2026-04-14 12:14:55,883 | MainThread   | [DEBUG   ] | hide_plot           |: Hide Odometry
+2026-04-14 12:14:56,615 | MainThread   | [DEBUG   ] | hide_plot           |: Hide Ground Truth
+2026-04-14 12:14:57,019 | MainThread   | [DEBUG   ] | show_plot           |: Show Odometry
+2026-04-14 12:14:57,470 | MainThread   | [DEBUG   ] | show_plot           |: Show Ground Truth
+2026-04-14 12:15:07,748 | MainThread   | [DEBUG   ] | reset_all_plots     |: Resetting trajectory plots...
+2026-04-14 12:18:31,741 | MainThread   | [DEBUG   ] | run                 |: Python version: 3.12.10 (v3.12.10:0cc81280367, Apr  8 2025, 08:46:59) [Clang 13.0.0 (clang-1300.0.29.30)]
+2026-04-14 12:18:31,741 | MainThread   | [DEBUG   ] | run                 |: Parameters used:
+2026-04-14 12:18:31,741 | MainThread   | [DEBUG   ] | run                 |: Symbol               : o
+2026-04-14 12:18:31,741 | MainThread   | [DEBUG   ] | run                 |: Symbol size          : 5
+2026-04-14 12:18:31,741 | MainThread   | [DEBUG   ] | run                 |: Line thickness       : 2
+2026-04-14 12:18:31,741 | MainThread   | [DEBUG   ] | run                 |: Position tolerance   : 0.03
+2026-04-14 12:18:31,741 | MainThread   | [DEBUG   ] | run                 |: ------------------
+
+2026-04-14 12:19:11,391 | MainThread   | [DEBUG   ] | hide_plot           |: Hide Odometry
+2026-04-14 12:19:11,676 | MainThread   | [DEBUG   ] | show_plot           |: Show Odometry
+2026-04-14 12:19:17,705 | MainThread   | [DEBUG   ] | reset_all_plots     |: Resetting trajectory plots...
+2026-04-14 12:21:51,972 | MainThread   | [DEBUG   ] | run                 |: Python version: 3.12.10 (v3.12.10:0cc81280367, Apr  8 2025, 08:46:59) [Clang 13.0.0 (clang-1300.0.29.30)]
+2026-04-14 12:21:51,972 | MainThread   | [DEBUG   ] | run                 |: Parameters used:
+2026-04-14 12:21:51,972 | MainThread   | [DEBUG   ] | run                 |: Symbol               : o
+2026-04-14 12:21:51,972 | MainThread   | [DEBUG   ] | run                 |: Symbol size          : 5
+2026-04-14 12:21:51,972 | MainThread   | [DEBUG   ] | run                 |: Line thickness       : 2
+2026-04-14 12:21:51,972 | MainThread   | [DEBUG   ] | run                 |: Position tolerance   : 0.03
+2026-04-14 12:21:51,972 | MainThread   | [DEBUG   ] | run                 |: ------------------
+
+2026-04-14 12:22:00,197 | MainThread   | [DEBUG   ] | reset_all_plots     |: Resetting trajectory plots...
+2026-04-14 12:22:49,717 | MainThread   | [DEBUG   ] | hide_plot           |: Hide Odometry
+2026-04-14 12:22:50,546 | MainThread   | [DEBUG   ] | show_plot           |: Show Odometry
+2026-04-14 12:22:51,846 | MainThread   | [DEBUG   ] | hide_plot           |: Hide Odometry
+2026-04-14 12:22:53,544 | MainThread   | [DEBUG   ] | hide_plot           |: Hide Ground Truth
+2026-04-14 12:22:53,983 | MainThread   | [DEBUG   ] | show_plot           |: Show Ground Truth
+2026-04-14 12:24:34,831 | MainThread   | [DEBUG   ] | run                 |: Python version: 3.12.10 (v3.12.10:0cc81280367, Apr  8 2025, 08:46:59) [Clang 13.0.0 (clang-1300.0.29.30)]
+2026-04-14 12:24:34,831 | MainThread   | [DEBUG   ] | run                 |: Parameters used:
+2026-04-14 12:24:34,831 | MainThread   | [DEBUG   ] | run                 |: Symbol               : o
+2026-04-14 12:24:34,831 | MainThread   | [DEBUG   ] | run                 |: Symbol size          : 5
+2026-04-14 12:24:34,831 | MainThread   | [DEBUG   ] | run                 |: Line thickness       : 2
+2026-04-14 12:24:34,831 | MainThread   | [DEBUG   ] | run                 |: Position tolerance   : 0.03
+2026-04-14 12:24:34,831 | MainThread   | [DEBUG   ] | run                 |: ------------------
+
+2026-04-14 12:29:25,982 | MainThread   | [DEBUG   ] | reset_all_plots     |: Resetting trajectory plots...
+2026-04-14 12:30:53,207 | MainThread   | [DEBUG   ] | signal_handler      |: Received SIGTERM
+2026-04-14 12:30:53,207 | MainThread   | [DEBUG   ] | run                 |: Exiting gracefully...
+2026-04-14 12:30:56,253 | MainThread   | [DEBUG   ] | run                 |: Python version: 3.12.10 (v3.12.10:0cc81280367, Apr  8 2025, 08:46:59) [Clang 13.0.0 (clang-1300.0.29.30)]
+2026-04-14 12:30:56,253 | MainThread   | [DEBUG   ] | run                 |: Parameters used:
+2026-04-14 12:30:56,253 | MainThread   | [DEBUG   ] | run                 |: Symbol               : o
+2026-04-14 12:30:56,253 | MainThread   | [DEBUG   ] | run                 |: Symbol size          : 5
+2026-04-14 12:30:56,253 | MainThread   | [DEBUG   ] | run                 |: Line thickness       : 2
+2026-04-14 12:30:56,253 | MainThread   | [DEBUG   ] | run                 |: Position tolerance   : 0.03
+2026-04-14 12:30:56,253 | MainThread   | [DEBUG   ] | run                 |: ------------------
+
+2026-04-14 12:31:01,858 | MainThread   | [DEBUG   ] | reset_all_plots     |: Resetting trajectory plots...
+2026-04-14 12:32:36,029 | MainThread   | [DEBUG   ] | reset_all_plots     |: Resetting trajectory plots...
+2026-04-14 12:32:36,429 | MainThread   | [DEBUG   ] | reset_all_plots     |: Resetting trajectory plots...
+2026-04-14 12:33:17,561 | MainThread   | [DEBUG   ] | signal_handler      |: Received SIGTERM
+2026-04-14 12:33:17,561 | MainThread   | [DEBUG   ] | run                 |: Exiting gracefully...
+2026-04-14 12:33:40,751 | MainThread   | [DEBUG   ] | run                 |: Python version: 3.12.10 (v3.12.10:0cc81280367, Apr  8 2025, 08:46:59) [Clang 13.0.0 (clang-1300.0.29.30)]
+2026-04-14 12:33:40,751 | MainThread   | [DEBUG   ] | run                 |: Parameters used:
+2026-04-14 12:33:40,751 | MainThread   | [DEBUG   ] | run                 |: Symbol               : o
+2026-04-14 12:33:40,751 | MainThread   | [DEBUG   ] | run                 |: Symbol size          : 5
+2026-04-14 12:33:40,751 | MainThread   | [DEBUG   ] | run                 |: Line thickness       : 2
+2026-04-14 12:33:40,751 | MainThread   | [DEBUG   ] | run                 |: Position tolerance   : 0.03
+2026-04-14 12:33:40,751 | MainThread   | [DEBUG   ] | run                 |: ------------------
+
+2026-04-14 12:33:49,649 | MainThread   | [DEBUG   ] | reset_all_plots     |: Resetting trajectory plots...
+2026-04-14 12:36:08,056 | MainThread   | [DEBUG   ] | reset_all_plots     |: Resetting trajectory plots...
+2026-04-14 12:36:30,140 | MainThread   | [DEBUG   ] | signal_handler      |: Received SIGTERM
+2026-04-14 12:36:30,140 | MainThread   | [DEBUG   ] | run                 |: Exiting gracefully...
+2026-04-14 12:36:37,837 | MainThread   | [DEBUG   ] | run                 |: Python version: 3.12.10 (v3.12.10:0cc81280367, Apr  8 2025, 08:46:59) [Clang 13.0.0 (clang-1300.0.29.30)]
+2026-04-14 12:36:37,837 | MainThread   | [DEBUG   ] | run                 |: Parameters used:
+2026-04-14 12:36:37,837 | MainThread   | [DEBUG   ] | run                 |: Symbol               : o
+2026-04-14 12:36:37,837 | MainThread   | [DEBUG   ] | run                 |: Symbol size          : 5
+2026-04-14 12:36:37,837 | MainThread   | [DEBUG   ] | run                 |: Line thickness       : 2
+2026-04-14 12:36:37,837 | MainThread   | [DEBUG   ] | run                 |: Position tolerance   : 0.03
+2026-04-14 12:36:37,837 | MainThread   | [DEBUG   ] | run                 |: ------------------
+
+2026-04-14 13:15:27,689 | MainThread   | [DEBUG   ] | signal_handler      |: Received SIGTERM
+2026-04-14 13:15:27,689 | MainThread   | [DEBUG   ] | run                 |: Exiting gracefully...
+2026-04-15 14:12:36,478 | MainThread   | [DEBUG   ] | run                 |: Python version: 3.12.10 (v3.12.10:0cc81280367, Apr  8 2025, 08:46:59) [Clang 13.0.0 (clang-1300.0.29.30)]
+2026-04-15 14:12:36,479 | MainThread   | [DEBUG   ] | run                 |: Parameters used:
+2026-04-15 14:12:36,479 | MainThread   | [DEBUG   ] | run                 |: Symbol               : o
+2026-04-15 14:12:36,479 | MainThread   | [DEBUG   ] | run                 |: Symbol size          : 5
+2026-04-15 14:12:36,479 | MainThread   | [DEBUG   ] | run                 |: Line thickness       : 2
+2026-04-15 14:12:36,479 | MainThread   | [DEBUG   ] | run                 |: Position tolerance   : 0.03
+2026-04-15 14:12:36,479 | MainThread   | [DEBUG   ] | run                 |: ------------------
+
+2026-04-15 14:17:20,984 | MainThread   | [DEBUG   ] | reset_all_plots     |: Resetting trajectory plots...
+2026-04-15 14:20:46,707 | MainThread   | [DEBUG   ] | signal_handler      |: Received SIGTERM
+2026-04-15 14:20:46,707 | MainThread   | [DEBUG   ] | run                 |: Exiting gracefully...
+2026-04-15 14:20:54,957 | MainThread   | [DEBUG   ] | run                 |: Python version: 3.12.10 (v3.12.10:0cc81280367, Apr  8 2025, 08:46:59) [Clang 13.0.0 (clang-1300.0.29.30)]
+2026-04-15 14:20:54,957 | MainThread   | [DEBUG   ] | run                 |: Parameters used:
+2026-04-15 14:20:54,958 | MainThread   | [DEBUG   ] | run                 |: Symbol               : o
+2026-04-15 14:20:54,958 | MainThread   | [DEBUG   ] | run                 |: Symbol size          : 5
+2026-04-15 14:20:54,958 | MainThread   | [DEBUG   ] | run                 |: Line thickness       : 2
+2026-04-15 14:20:54,958 | MainThread   | [DEBUG   ] | run                 |: Position tolerance   : 0.03
+2026-04-15 14:20:54,958 | MainThread   | [DEBUG   ] | run                 |: ------------------
+
+2026-04-15 14:21:31,791 | MainThread   | [DEBUG   ] | reset_all_plots     |: Resetting trajectory plots...
+2026-04-15 14:23:29,106 | MainThread   | [DEBUG   ] | hide_plot           |: Hide Odometry
+2026-04-15 14:23:29,924 | MainThread   | [DEBUG   ] | show_plot           |: Show Odometry
+2026-04-15 14:23:32,132 | MainThread   | [DEBUG   ] | hide_plot           |: Hide Odometry
+2026-04-15 14:23:32,617 | MainThread   | [DEBUG   ] | hide_plot           |: Hide Ground Truth
+2026-04-15 14:23:33,134 | MainThread   | [DEBUG   ] | show_plot           |: Show Ground Truth
+2026-04-15 14:23:42,368 | MainThread   | [DEBUG   ] | hide_plot           |: Hide Belief
+2026-04-15 14:23:42,892 | MainThread   | [DEBUG   ] | show_plot           |: Show Belief
+2026-04-15 14:23:49,263 | MainThread   | [DEBUG   ] | hide_plot           |: Hide Map
+2026-04-15 14:23:49,490 | MainThread   | [DEBUG   ] | show_plot           |: Show Map
+2026-04-15 14:23:50,264 | MainThread   | [DEBUG   ] | hide_plot           |: Hide Distribution
+2026-04-15 14:23:50,769 | MainThread   | [DEBUG   ] | show_plot           |: Show Distribution
+2026-04-15 14:23:51,505 | MainThread   | [DEBUG   ] | hide_plot           |: Hide Distribution
+2026-04-15 14:23:51,937 | MainThread   | [DEBUG   ] | show_plot           |: Show Distribution
+2026-04-15 14:23:52,931 | MainThread   | [DEBUG   ] | hide_plot           |: Hide Distribution
+2026-04-15 14:23:56,196 | MainThread   | [DEBUG   ] | show_plot           |: Show Odometry
+2026-04-15 14:25:17,890 | MainThread   | [DEBUG   ] | signal_handler      |: Received SIGTERM
+2026-04-15 14:25:17,890 | MainThread   | [DEBUG   ] | run                 |: Exiting gracefully...
+2026-04-15 14:25:43,253 | MainThread   | [DEBUG   ] | run                 |: Python version: 3.12.10 (v3.12.10:0cc81280367, Apr  8 2025, 08:46:59) [Clang 13.0.0 (clang-1300.0.29.30)]
+2026-04-15 14:25:43,253 | MainThread   | [DEBUG   ] | run                 |: Parameters used:
+2026-04-15 14:25:43,254 | MainThread   | [DEBUG   ] | run                 |: Symbol               : o
+2026-04-15 14:25:43,254 | MainThread   | [DEBUG   ] | run                 |: Symbol size          : 5
+2026-04-15 14:25:43,254 | MainThread   | [DEBUG   ] | run                 |: Line thickness       : 2
+2026-04-15 14:25:43,254 | MainThread   | [DEBUG   ] | run                 |: Position tolerance   : 0.03
+2026-04-15 14:25:43,254 | MainThread   | [DEBUG   ] | run                 |: ------------------
+
+2026-04-15 14:25:53,652 | MainThread   | [DEBUG   ] | signal_handler      |: Received SIGTERM
+2026-04-15 14:25:53,653 | MainThread   | [DEBUG   ] | run                 |: Exiting gracefully...
+2026-04-15 14:25:55,660 | MainThread   | [DEBUG   ] | run                 |: Python version: 3.12.10 (v3.12.10:0cc81280367, Apr  8 2025, 08:46:59) [Clang 13.0.0 (clang-1300.0.29.30)]
+2026-04-15 14:25:55,660 | MainThread   | [DEBUG   ] | run                 |: Parameters used:
+2026-04-15 14:25:55,660 | MainThread   | [DEBUG   ] | run                 |: Symbol               : o
+2026-04-15 14:25:55,660 | MainThread   | [DEBUG   ] | run                 |: Symbol size          : 5
+2026-04-15 14:25:55,660 | MainThread   | [DEBUG   ] | run                 |: Line thickness       : 2
+2026-04-15 14:25:55,660 | MainThread   | [DEBUG   ] | run                 |: Position tolerance   : 0.03
+2026-04-15 14:25:55,660 | MainThread   | [DEBUG   ] | run                 |: ------------------
+
+2026-04-15 14:30:36,118 | MainThread   | [DEBUG   ] | signal_handler      |: Received SIGTERM
+2026-04-15 14:30:36,118 | MainThread   | [DEBUG   ] | run                 |: Exiting gracefully...
+2026-04-15 14:30:48,574 | MainThread   | [DEBUG   ] | run                 |: Python version: 3.12.10 (v3.12.10:0cc81280367, Apr  8 2025, 08:46:59) [Clang 13.0.0 (clang-1300.0.29.30)]
+2026-04-15 14:30:48,574 | MainThread   | [DEBUG   ] | run                 |: Parameters used:
+2026-04-15 14:30:48,574 | MainThread   | [DEBUG   ] | run                 |: Symbol               : o
+2026-04-15 14:30:48,574 | MainThread   | [DEBUG   ] | run                 |: Symbol size          : 5
+2026-04-15 14:30:48,574 | MainThread   | [DEBUG   ] | run                 |: Line thickness       : 2
+2026-04-15 14:30:48,574 | MainThread   | [DEBUG   ] | run                 |: Position tolerance   : 0.03
+2026-04-15 14:30:48,574 | MainThread   | [DEBUG   ] | run                 |: ------------------
+
+2026-04-15 14:31:26,750 | MainThread   | [DEBUG   ] | hide_plot           |: Hide Odometry
+2026-04-15 14:31:27,135 | MainThread   | [DEBUG   ] | show_plot           |: Show Odometry
+2026-04-15 14:34:40,349 | MainThread   | [DEBUG   ] | signal_handler      |: Received SIGTERM
+2026-04-15 14:34:40,349 | MainThread   | [DEBUG   ] | run                 |: Exiting gracefully...
+2026-04-15 14:40:38,644 | MainThread   | [DEBUG   ] | run                 |: Python version: 3.12.10 (v3.12.10:0cc81280367, Apr  8 2025, 08:46:59) [Clang 13.0.0 (clang-1300.0.29.30)]
+2026-04-15 14:40:38,645 | MainThread   | [DEBUG   ] | run                 |: Parameters used:
+2026-04-15 14:40:38,645 | MainThread   | [DEBUG   ] | run                 |: Symbol               : o
+2026-04-15 14:40:38,645 | MainThread   | [DEBUG   ] | run                 |: Symbol size          : 5
+2026-04-15 14:40:38,645 | MainThread   | [DEBUG   ] | run                 |: Line thickness       : 2
+2026-04-15 14:40:38,645 | MainThread   | [DEBUG   ] | run                 |: Position tolerance   : 0.03
+2026-04-15 14:40:38,645 | MainThread   | [DEBUG   ] | run                 |: ------------------
+
+2026-04-15 14:40:54,388 | MainThread   | [DEBUG   ] | run                 |: Python version: 3.12.10 (v3.12.10:0cc81280367, Apr  8 2025, 08:46:59) [Clang 13.0.0 (clang-1300.0.29.30)]
+2026-04-15 14:40:54,388 | MainThread   | [DEBUG   ] | run                 |: Parameters used:
+2026-04-15 14:40:54,388 | MainThread   | [DEBUG   ] | run                 |: Symbol               : o
+2026-04-15 14:40:54,388 | MainThread   | [DEBUG   ] | run                 |: Symbol size          : 5
+2026-04-15 14:40:54,388 | MainThread   | [DEBUG   ] | run                 |: Line thickness       : 2
+2026-04-15 14:40:54,388 | MainThread   | [DEBUG   ] | run                 |: Position tolerance   : 0.03
+2026-04-15 14:40:54,388 | MainThread   | [DEBUG   ] | run                 |: ------------------
+
+2026-04-15 14:41:10,018 | MainThread   | [DEBUG   ] | reset_all_plots     |: Resetting trajectory plots...
+2026-04-15 14:47:07,590 | MainThread   | [DEBUG   ] | run                 |: Python version: 3.12.10 (v3.12.10:0cc81280367, Apr  8 2025, 08:46:59) [Clang 13.0.0 (clang-1300.0.29.30)]
+2026-04-15 14:47:07,590 | MainThread   | [DEBUG   ] | run                 |: Parameters used:
+2026-04-15 14:47:07,590 | MainThread   | [DEBUG   ] | run                 |: Symbol               : o
+2026-04-15 14:47:07,590 | MainThread   | [DEBUG   ] | run                 |: Symbol size          : 5
+2026-04-15 14:47:07,590 | MainThread   | [DEBUG   ] | run                 |: Line thickness       : 2
+2026-04-15 14:47:07,590 | MainThread   | [DEBUG   ] | run                 |: Position tolerance   : 0.03
+2026-04-15 14:47:07,590 | MainThread   | [DEBUG   ] | run                 |: ------------------
+
+2026-04-15 14:47:20,549 | MainThread   | [DEBUG   ] | reset_all_plots     |: Resetting trajectory plots...
+2026-04-22 13:07:08,171 | MainThread   | [DEBUG   ] | run                 |: Python version: 3.12.10 (v3.12.10:0cc81280367, Apr  8 2025, 08:46:59) [Clang 13.0.0 (clang-1300.0.29.30)]
+2026-04-22 13:07:08,171 | MainThread   | [DEBUG   ] | run                 |: Parameters used:
+2026-04-22 13:07:08,171 | MainThread   | [DEBUG   ] | run                 |: Symbol               : o
+2026-04-22 13:07:08,171 | MainThread   | [DEBUG   ] | run                 |: Symbol size          : 5
+2026-04-22 13:07:08,171 | MainThread   | [DEBUG   ] | run                 |: Line thickness       : 2
+2026-04-22 13:07:08,171 | MainThread   | [DEBUG   ] | run                 |: Position tolerance   : 0.03
+2026-04-22 13:07:08,171 | MainThread   | [DEBUG   ] | run                 |: ------------------
+
+2026-04-22 13:07:16,755 | MainThread   | [DEBUG   ] | reset_all_plots     |: Resetting trajectory plots...
+2026-04-22 13:09:41,269 | MainThread   | [DEBUG   ] | signal_handler      |: Received SIGTERM
+2026-04-22 13:09:41,269 | MainThread   | [DEBUG   ] | run                 |: Exiting gracefully...
+2026-04-22 13:09:45,917 | MainThread   | [DEBUG   ] | run                 |: Python version: 3.12.10 (v3.12.10:0cc81280367, Apr  8 2025, 08:46:59) [Clang 13.0.0 (clang-1300.0.29.30)]
+2026-04-22 13:09:45,918 | MainThread   | [DEBUG   ] | run                 |: Parameters used:
+2026-04-22 13:09:45,918 | MainThread   | [DEBUG   ] | run                 |: Symbol               : o
+2026-04-22 13:09:45,918 | MainThread   | [DEBUG   ] | run                 |: Symbol size          : 5
+2026-04-22 13:09:45,918 | MainThread   | [DEBUG   ] | run                 |: Line thickness       : 2
+2026-04-22 13:09:45,918 | MainThread   | [DEBUG   ] | run                 |: Position tolerance   : 0.03
+2026-04-22 13:09:45,918 | MainThread   | [DEBUG   ] | run                 |: ------------------
+
+2026-04-22 13:09:54,964 | MainThread   | [DEBUG   ] | reset_all_plots     |: Resetting trajectory plots...
+2026-04-22 13:11:57,137 | MainThread   | [DEBUG   ] | signal_handler      |: Received SIGTERM
+2026-04-22 13:11:57,137 | MainThread   | [DEBUG   ] | run                 |: Exiting gracefully...
+2026-04-22 15:19:42,280 | MainThread   | [DEBUG   ] | run                 |: Python version: 3.12.10 (v3.12.10:0cc81280367, Apr  8 2025, 08:46:59) [Clang 13.0.0 (clang-1300.0.29.30)]
+2026-04-22 15:19:42,280 | MainThread   | [DEBUG   ] | run                 |: Parameters used:
+2026-04-22 15:19:42,280 | MainThread   | [DEBUG   ] | run                 |: Symbol               : o
+2026-04-22 15:19:42,280 | MainThread   | [DEBUG   ] | run                 |: Symbol size          : 5
+2026-04-22 15:19:42,280 | MainThread   | [DEBUG   ] | run                 |: Line thickness       : 2
+2026-04-22 15:19:42,280 | MainThread   | [DEBUG   ] | run                 |: Position tolerance   : 0.03
+2026-04-22 15:19:42,280 | MainThread   | [DEBUG   ] | run                 |: ------------------
+
+2026-04-22 15:27:55,434 | MainThread   | [DEBUG   ] | signal_handler      |: Received SIGTERM
+2026-04-22 15:27:55,434 | MainThread   | [DEBUG   ] | run                 |: Exiting gracefully...
+2026-04-22 15:28:01,485 | MainThread   | [DEBUG   ] | run                 |: Python version: 3.12.10 (v3.12.10:0cc81280367, Apr  8 2025, 08:46:59) [Clang 13.0.0 (clang-1300.0.29.30)]
+2026-04-22 15:28:01,486 | MainThread   | [DEBUG   ] | run                 |: Parameters used:
+2026-04-22 15:28:01,486 | MainThread   | [DEBUG   ] | run                 |: Symbol               : o
+2026-04-22 15:28:01,486 | MainThread   | [DEBUG   ] | run                 |: Symbol size          : 5
+2026-04-22 15:28:01,486 | MainThread   | [DEBUG   ] | run                 |: Line thickness       : 2
+2026-04-22 15:28:01,486 | MainThread   | [DEBUG   ] | run                 |: Position tolerance   : 0.03
+2026-04-22 15:28:01,486 | MainThread   | [DEBUG   ] | run                 |: ------------------
+
+2026-04-22 15:32:15,858 | MainThread   | [DEBUG   ] | signal_handler      |: Received SIGTERM
+2026-04-22 15:32:15,858 | MainThread   | [DEBUG   ] | run                 |: Exiting gracefully...
+2026-04-22 15:34:06,166 | MainThread   | [DEBUG   ] | run                 |: Python version: 3.12.10 (v3.12.10:0cc81280367, Apr  8 2025, 08:46:59) [Clang 13.0.0 (clang-1300.0.29.30)]
+2026-04-22 15:34:06,166 | MainThread   | [DEBUG   ] | run                 |: Parameters used:
+2026-04-22 15:34:06,166 | MainThread   | [DEBUG   ] | run                 |: Symbol               : o
+2026-04-22 15:34:06,166 | MainThread   | [DEBUG   ] | run                 |: Symbol size          : 5
+2026-04-22 15:34:06,166 | MainThread   | [DEBUG   ] | run                 |: Line thickness       : 2
+2026-04-22 15:34:06,166 | MainThread   | [DEBUG   ] | run                 |: Position tolerance   : 0.03
+2026-04-22 15:34:06,166 | MainThread   | [DEBUG   ] | run                 |: ------------------
+
+2026-04-22 15:35:09,637 | MainThread   | [DEBUG   ] | reset_all_plots     |: Resetting trajectory plots...
+2026-04-22 15:37:03,246 | MainThread   | [DEBUG   ] | hide_plot           |: Hide Odometry
+2026-04-22 15:37:03,759 | MainThread   | [DEBUG   ] | hide_plot           |: Hide Ground Truth
+2026-04-22 15:37:04,214 | MainThread   | [DEBUG   ] | show_plot           |: Show Ground Truth
+2026-04-22 15:37:04,538 | MainThread   | [DEBUG   ] | show_plot           |: Show Odometry
+2026-04-22 15:37:05,492 | MainThread   | [DEBUG   ] | hide_plot           |: Hide Belief
+2026-04-22 15:37:05,825 | MainThread   | [DEBUG   ] | show_plot           |: Show Belief
+2026-04-22 15:39:14,922 | MainThread   | [DEBUG   ] | signal_handler      |: Received SIGTERM
+2026-04-22 15:39:14,922 | MainThread   | [DEBUG   ] | run                 |: Exiting gracefully...
+2026-04-22 15:39:21,005 | MainThread   | [DEBUG   ] | run                 |: Python version: 3.12.10 (v3.12.10:0cc81280367, Apr  8 2025, 08:46:59) [Clang 13.0.0 (clang-1300.0.29.30)]
+2026-04-22 15:39:21,005 | MainThread   | [DEBUG   ] | run                 |: Parameters used:
+2026-04-22 15:39:21,005 | MainThread   | [DEBUG   ] | run                 |: Symbol               : o
+2026-04-22 15:39:21,005 | MainThread   | [DEBUG   ] | run                 |: Symbol size          : 5
+2026-04-22 15:39:21,005 | MainThread   | [DEBUG   ] | run                 |: Line thickness       : 2
+2026-04-22 15:39:21,005 | MainThread   | [DEBUG   ] | run                 |: Position tolerance   : 0.03
+2026-04-22 15:39:21,005 | MainThread   | [DEBUG   ] | run                 |: ------------------
+
+2026-04-22 15:40:16,573 | MainThread   | [DEBUG   ] | reset_all_plots     |: Resetting trajectory plots...
+2026-04-22 15:44:01,085 | MainThread   | [DEBUG   ] | signal_handler      |: Received SIGTERM
+2026-04-22 15:44:01,085 | MainThread   | [DEBUG   ] | run                 |: Exiting gracefully...
+2026-04-22 15:44:07,146 | MainThread   | [DEBUG   ] | run                 |: Python version: 3.12.10 (v3.12.10:0cc81280367, Apr  8 2025, 08:46:59) [Clang 13.0.0 (clang-1300.0.29.30)]
+2026-04-22 15:44:07,146 | MainThread   | [DEBUG   ] | run                 |: Parameters used:
+2026-04-22 15:44:07,146 | MainThread   | [DEBUG   ] | run                 |: Symbol               : o
+2026-04-22 15:44:07,146 | MainThread   | [DEBUG   ] | run                 |: Symbol size          : 5
+2026-04-22 15:44:07,146 | MainThread   | [DEBUG   ] | run                 |: Line thickness       : 2
+2026-04-22 15:44:07,146 | MainThread   | [DEBUG   ] | run                 |: Position tolerance   : 0.03
+2026-04-22 15:44:07,146 | MainThread   | [DEBUG   ] | run                 |: ------------------
+
+2026-04-22 15:45:01,802 | MainThread   | [DEBUG   ] | reset_all_plots     |: Resetting trajectory plots...
+2026-04-22 15:46:14,345 | MainThread   | [DEBUG   ] | reset_all_plots     |: Resetting trajectory plots...
+2026-04-22 15:48:21,009 | MainThread   | [DEBUG   ] | reset_all_plots     |: Resetting trajectory plots...

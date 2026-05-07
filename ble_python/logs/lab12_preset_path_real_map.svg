@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="795" viewBox="0 0 1160 795">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="90" y="34" font-family="Arial" font-size="24" font-weight="700" fill="#1f2d3d">Lab12 Preset Waypoint Path</text>
+<text x="90" y="60" font-family="Arial" font-size="14" fill="#52616f">Real map wall lines from world.yaml, coordinates shown in feet</text>
+<rect x="90.0" y="85.0" width="840.0" height="630.0" fill="#fbfbfb" stroke="#222" stroke-width="1"/>
+<line x1="90.0" y1="715.0" x2="90.0" y2="85.0" stroke="#eeeeee" stroke-width="0.7"/>
+<line x1="125.0" y1="715.0" x2="125.0" y2="85.0" stroke="#d8d8d8" stroke-width="1.2"/>
+<line x1="160.0" y1="715.0" x2="160.0" y2="85.0" stroke="#eeeeee" stroke-width="0.7"/>
+<line x1="195.0" y1="715.0" x2="195.0" y2="85.0" stroke="#d8d8d8" stroke-width="1.2"/>
+<line x1="230.0" y1="715.0" x2="230.0" y2="85.0" stroke="#eeeeee" stroke-width="0.7"/>
+<line x1="265.0" y1="715.0" x2="265.0" y2="85.0" stroke="#d8d8d8" stroke-width="1.2"/>
+<line x1="300.0" y1="715.0" x2="300.0" y2="85.0" stroke="#eeeeee" stroke-width="0.7"/>
+<line x1="335.0" y1="715.0" x2="335.0" y2="85.0" stroke="#d8d8d8" stroke-width="1.2"/>
+<line x1="370.0" y1="715.0" x2="370.0" y2="85.0" stroke="#eeeeee" stroke-width="0.7"/>
+<line x1="405.0" y1="715.0" x2="405.0" y2="85.0" stroke="#d8d8d8" stroke-width="1.2"/>
+<line x1="440.0" y1="715.0" x2="440.0" y2="85.0" stroke="#eeeeee" stroke-width="0.7"/>
+<line x1="475.0" y1="715.0" x2="475.0" y2="85.0" stroke="#d8d8d8" stroke-width="1.2"/>
+<line x1="510.0" y1="715.0" x2="510.0" y2="85.0" stroke="#eeeeee" stroke-width="0.7"/>
+<line x1="545.0" y1="715.0" x2="545.0" y2="85.0" stroke="#d8d8d8" stroke-width="1.2"/>
+<line x1="580.0" y1="715.0" x2="580.0" y2="85.0" stroke="#eeeeee" stroke-width="0.7"/>
+<line x1="615.0" y1="715.0" x2="615.0" y2="85.0" stroke="#d8d8d8" stroke-width="1.2"/>
+<line x1="650.0" y1="715.0" x2="650.0" y2="85.0" stroke="#eeeeee" stroke-width="0.7"/>
+<line x1="685.0" y1="715.0" x2="685.0" y2="85.0" stroke="#d8d8d8" stroke-width="1.2"/>
+<line x1="720.0" y1="715.0" x2="720.0" y2="85.0" stroke="#eeeeee" stroke-width="0.7"/>
+<line x1="755.0" y1="715.0" x2="755.0" y2="85.0" stroke="#d8d8d8" stroke-width="1.2"/>
+<line x1="790.0" y1="715.0" x2="790.0" y2="85.0" stroke="#eeeeee" stroke-width="0.7"/>
+<line x1="825.0" y1="715.0" x2="825.0" y2="85.0" stroke="#d8d8d8" stroke-width="1.2"/>
+<line x1="860.0" y1="715.0" x2="860.0" y2="85.0" stroke="#eeeeee" stroke-width="0.7"/>
+<line x1="895.0" y1="715.0" x2="895.0" y2="85.0" stroke="#d8d8d8" stroke-width="1.2"/>
+<line x1="930.0" y1="715.0" x2="930.0" y2="85.0" stroke="#eeeeee" stroke-width="0.7"/>
+<line x1="90.0" y1="715.0" x2="930.0" y2="715.0" stroke="#eeeeee" stroke-width="0.7"/>
+<line x1="90.0" y1="680.0" x2="930.0" y2="680.0" stroke="#d8d8d8" stroke-width="1.2"/>
+<line x1="90.0" y1="645.0" x2="930.0" y2="645.0" stroke="#eeeeee" stroke-width="0.7"/>
+<line x1="90.0" y1="610.0" x2="930.0" y2="610.0" stroke="#d8d8d8" stroke-width="1.2"/>
+<line x1="90.0" y1="575.0" x2="930.0" y2="575.0" stroke="#eeeeee" stroke-width="0.7"/>
+<line x1="90.0" y1="540.0" x2="930.0" y2="540.0" stroke="#d8d8d8" stroke-width="1.2"/>
+<line x1="90.0" y1="505.0" x2="930.0" y2="505.0" stroke="#eeeeee" stroke-width="0.7"/>
+<line x1="90.0" y1="470.0" x2="930.0" y2="470.0" stroke="#d8d8d8" stroke-width="1.2"/>
+<line x1="90.0" y1="435.0" x2="930.0" y2="435.0" stroke="#eeeeee" stroke-width="0.7"/>
+<line x1="90.0" y1="400.0" x2="930.0" y2="400.0" stroke="#d8d8d8" stroke-width="1.2"/>
+<line x1="90.0" y1="365.0" x2="930.0" y2="365.0" stroke="#eeeeee" stroke-width="0.7"/>
+<line x1="90.0" y1="330.0" x2="930.0" y2="330.0" stroke="#d8d8d8" stroke-width="1.2"/>
+<line x1="90.0" y1="295.0" x2="930.0" y2="295.0" stroke="#eeeeee" stroke-width="0.7"/>
+<line x1="90.0" y1="260.0" x2="930.0" y2="260.0" stroke="#d8d8d8" stroke-width="1.2"/>
+<line x1="90.0" y1="225.0" x2="930.0" y2="225.0" stroke="#eeeeee" stroke-width="0.7"/>
+<line x1="90.0" y1="190.0" x2="930.0" y2="190.0" stroke="#d8d8d8" stroke-width="1.2"/>
+<line x1="90.0" y1="155.0" x2="930.0" y2="155.0" stroke="#eeeeee" stroke-width="0.7"/>
+<line x1="90.0" y1="120.0" x2="930.0" y2="120.0" stroke="#d8d8d8" stroke-width="1.2"/>
+<line x1="90.0" y1="85.0" x2="930.0" y2="85.0" stroke="#eeeeee" stroke-width="0.7"/>
+<text x="125.0" y="740.0" text-anchor="middle" font-family="Arial" font-size="13" fill="#555">-5</text>
+<text x="195.0" y="740.0" text-anchor="middle" font-family="Arial" font-size="13" fill="#555">-4</text>
+<text x="265.0" y="740.0" text-anchor="middle" font-family="Arial" font-size="13" fill="#555">-3</text>
+<text x="335.0" y="740.0" text-anchor="middle" font-family="Arial" font-size="13" fill="#555">-2</text>
+<text x="405.0" y="740.0" text-anchor="middle" font-family="Arial" font-size="13" fill="#555">-1</text>
+<text x="475.0" y="740.0" text-anchor="middle" font-family="Arial" font-size="13" fill="#555">0</text>
+<text x="545.0" y="740.0" text-anchor="middle" font-family="Arial" font-size="13" fill="#555">1</text>
+<text x="615.0" y="740.0" text-anchor="middle" font-family="Arial" font-size="13" fill="#555">2</text>
+<text x="685.0" y="740.0" text-anchor="middle" font-family="Arial" font-size="13" fill="#555">3</text>
+<text x="755.0" y="740.0" text-anchor="middle" font-family="Arial" font-size="13" fill="#555">4</text>
+<text x="825.0" y="740.0" text-anchor="middle" font-family="Arial" font-size="13" fill="#555">5</text>
+<text x="895.0" y="740.0" text-anchor="middle" font-family="Arial" font-size="13" fill="#555">6</text>
+<text x="72.0" y="685.0" text-anchor="end" font-family="Arial" font-size="13" fill="#555">-4</text>
+<text x="72.0" y="615.0" text-anchor="end" font-family="Arial" font-size="13" fill="#555">-3</text>
+<text x="72.0" y="545.0" text-anchor="end" font-family="Arial" font-size="13" fill="#555">-2</text>
+<text x="72.0" y="475.0" text-anchor="end" font-family="Arial" font-size="13" fill="#555">-1</text>
+<text x="72.0" y="405.0" text-anchor="end" font-family="Arial" font-size="13" fill="#555">0</text>
+<text x="72.0" y="335.0" text-anchor="end" font-family="Arial" font-size="13" fill="#555">1</text>
+<text x="72.0" y="265.0" text-anchor="end" font-family="Arial" font-size="13" fill="#555">2</text>
+<text x="72.0" y="195.0" text-anchor="end" font-family="Arial" font-size="13" fill="#555">3</text>
+<text x="72.0" y="125.0" text-anchor="end" font-family="Arial" font-size="13" fill="#555">4</text>
+<text x="510.0" y="771" text-anchor="middle" font-family="Arial" font-size="14" fill="#444">x (ft)</text>
+<text transform="translate(28 400.0) rotate(-90)" text-anchor="middle" font-family="Arial" font-size="14" fill="#444">y (ft)</text>
+<line x1="90.0" y1="365.0" x2="90.0" y2="715.0" stroke="#111111" stroke-width="4" stroke-linecap="round"/>
+<line x1="90.0" y1="715.0" x2="930.0" y2="715.0" stroke="#111111" stroke-width="4" stroke-linecap="round"/>
+<line x1="930.0" y1="715.0" x2="930.0" y2="85.0" stroke="#111111" stroke-width="4" stroke-linecap="round"/>
+<line x1="930.0" y1="85.0" x2="300.0" y2="85.0" stroke="#111111" stroke-width="4" stroke-linecap="round"/>
+<line x1="300.0" y1="85.0" x2="300.0" y2="365.0" stroke="#111111" stroke-width="4" stroke-linecap="round"/>
+<line x1="300.0" y1="365.0" x2="90.0" y2="365.0" stroke="#111111" stroke-width="4" stroke-linecap="round"/>
+<line x1="650.0" y1="435.0" x2="790.0" y2="435.0" stroke="#111111" stroke-width="4" stroke-linecap="round"/>
+<line x1="790.0" y1="435.0" x2="790.0" y2="295.0" stroke="#111111" stroke-width="4" stroke-linecap="round"/>
+<line x1="790.0" y1="295.0" x2="650.0" y2="295.0" stroke="#111111" stroke-width="4" stroke-linecap="round"/>
+<line x1="650.0" y1="295.0" x2="650.0" y2="435.0" stroke="#111111" stroke-width="4" stroke-linecap="round"/>
+<line x1="440.0" y1="715.0" x2="440.0" y2="575.0" stroke="#111111" stroke-width="4" stroke-linecap="round"/>
+<line x1="440.0" y1="575.0" x2="510.0" y2="575.0" stroke="#111111" stroke-width="4" stroke-linecap="round"/>
+<line x1="510.0" y1="575.0" x2="510.0" y2="715.0" stroke="#111111" stroke-width="4" stroke-linecap="round"/>
+<polyline points="195.0,610.0 335.0,470.0 545.0,470.0 615.0,610.0 825.0,610.0 825.0,540.0 825.0,190.0 475.0,190.0 475.0,400.0" fill="none" stroke="#00b51a" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="195.0" cy="610.0" r="15" fill="#b9f6c1" stroke="#111" stroke-width="2.3"/>
+<text x="195.0" y="615.0" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#111">1</text>
+<text x="195.0" y="586.0" text-anchor="middle" font-family="Arial" font-size="12" fill="#111">(-4,-3)</text>
+<circle cx="335.0" cy="470.0" r="15" fill="#ffffff" stroke="#111" stroke-width="2.3"/>
+<text x="335.0" y="475.0" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#111">2</text>
+<text x="335.0" y="446.0" text-anchor="middle" font-family="Arial" font-size="12" fill="#111">(-2,-1)</text>
+<circle cx="545.0" cy="470.0" r="15" fill="#ffffff" stroke="#111" stroke-width="2.3"/>
+<text x="545.0" y="475.0" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#111">3</text>
+<text x="545.0" y="446.0" text-anchor="middle" font-family="Arial" font-size="12" fill="#111">(1,-1)</text>
+<circle cx="615.0" cy="610.0" r="15" fill="#ffffff" stroke="#111" stroke-width="2.3"/>
+<text x="615.0" y="615.0" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#111">4</text>
+<text x="615.0" y="586.0" text-anchor="middle" font-family="Arial" font-size="12" fill="#111">(2,-3)</text>
+<circle cx="825.0" cy="610.0" r="15" fill="#ffffff" stroke="#111" stroke-width="2.3"/>
+<text x="825.0" y="615.0" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#111">5</text>
+<text x="825.0" y="586.0" text-anchor="middle" font-family="Arial" font-size="12" fill="#111">(5,-3)</text>
+<circle cx="825.0" cy="540.0" r="15" fill="#ffffff" stroke="#111" stroke-width="2.3"/>
+<text x="825.0" y="545.0" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#111">6</text>
+<text x="825.0" y="570.0" text-anchor="middle" font-family="Arial" font-size="12" fill="#111">(5,-2)</text>
+<circle cx="825.0" cy="190.0" r="15" fill="#ffffff" stroke="#111" stroke-width="2.3"/>
+<text x="825.0" y="195.0" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#111">7</text>
+<text x="825.0" y="220.0" text-anchor="middle" font-family="Arial" font-size="12" fill="#111">(5,3)</text>
+<circle cx="475.0" cy="190.0" r="15" fill="#ffffff" stroke="#111" stroke-width="2.3"/>
+<text x="475.0" y="195.0" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#111">8</text>
+<text x="475.0" y="166.0" text-anchor="middle" font-family="Arial" font-size="12" fill="#111">(0,3)</text>
+<circle cx="475.0" cy="400.0" r="15" fill="#ffe39a" stroke="#111" stroke-width="2.3"/>
+<text x="475.0" y="405.0" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#111">9</text>
+<text x="475.0" y="376.0" text-anchor="middle" font-family="Arial" font-size="12" fill="#111">(0,0)</text>
+<text x="965.0" y="100" font-family="Arial" font-size="18" font-weight="700" fill="#1f2d3d">Waypoints</text>
+<text x="965.0" y="150" font-family="Arial" font-size="13" fill="#222">1. (-4, -3) start</text>
+<text x="965.0" y="172" font-family="Arial" font-size="13" fill="#222">2. (-2, -1)</text>
+<text x="965.0" y="194" font-family="Arial" font-size="13" fill="#222">3. (1, -1)</text>
+<text x="965.0" y="216" font-family="Arial" font-size="13" fill="#222">4. (2, -3)</text>
+<text x="965.0" y="238" font-family="Arial" font-size="13" fill="#222">5. (5, -3)</text>
+<text x="965.0" y="260" font-family="Arial" font-size="13" fill="#222">6. (5, -2)</text>
+<text x="965.0" y="282" font-family="Arial" font-size="13" fill="#222">7. (5, 3)</text>
+<text x="965.0" y="304" font-family="Arial" font-size="13" fill="#222">8. (0, 3)</text>
+<text x="965.0" y="326" font-family="Arial" font-size="13" fill="#222">9. (0, 0) end</text>
+<text x="965.0" y="360" font-family="Arial" font-size="18" font-weight="700" fill="#1f2d3d">Notes</text>
+<text x="965.0" y="390" font-family="Arial" font-size="13" fill="#222">Black lines: real walls</text>
+<text x="965.0" y="412" font-family="Arial" font-size="13" fill="#222">Green line: preset route</text>
+<text x="965.0" y="434" font-family="Arial" font-size="13" fill="#222">No inflated occupancy cells</text>
+<text x="965.0" y="456" font-family="Arial" font-size="13" fill="#222">All coordinates are feet</text>
+</svg>

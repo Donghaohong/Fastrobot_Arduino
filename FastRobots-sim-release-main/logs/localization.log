@@ -1,0 +1,409 @@
+2026-04-22 13:08:07,923 | MainThread   | [INFO    ] | print_update_stats  |: POS ERROR     : (-0.081, 0.147, 2872.585)
+2026-04-22 13:08:07,923 | MainThread   | [INFO    ] | print_update_stats  |: ---------- UPDATE STATS -----------
+2026-04-22 13:08:10,976 | MainThread   | [INFO    ] | print_prediction_stats|: ---------- PREDICTION STATS -----------
+2026-04-22 13:08:10,984 | MainThread   | [INFO    ] | print_prediction_stats|: GT index         : (11, 5, 14)
+2026-04-22 13:08:10,984 | MainThread   | [INFO    ] | print_prediction_stats|: Prior Bel index  : (np.int64(9), np.int64(4), np.int64(16)) with prob = 0.1136203
+2026-04-22 13:08:10,984 | MainThread   | [INFO    ] | print_prediction_stats|: POS ERROR        : (0.544, 0.334, 2834.553)
+2026-04-22 13:08:10,985 | MainThread   | [INFO    ] | print_prediction_stats|: ---------- PREDICTION STATS -----------
+2026-04-22 13:08:13,972 | MainThread   | [INFO    ] | print_update_stats  |: ---------- UPDATE STATS -----------
+2026-04-22 13:08:13,985 | MainThread   | [INFO    ] | print_update_stats  |: GT index      : (11, 5, 14)
+2026-04-22 13:08:13,985 | MainThread   | [INFO    ] | print_update_stats  |: Bel index     : (np.int64(11), np.int64(4), np.int64(13)) with prob = 0.9999999
+2026-04-22 13:08:13,985 | MainThread   | [INFO    ] | print_update_stats  |: Bel_bar prob at index = 2.159121189893116e-06
+2026-04-22 13:08:13,986 | MainThread   | [INFO    ] | print_update_stats  |: GT            : (1.764, 0.334, 3344.839)
+2026-04-22 13:08:13,986 | MainThread   | [INFO    ] | print_update_stats  |: Belief        : (1.829, 0.000, 90.000)
+2026-04-22 13:08:13,986 | MainThread   | [INFO    ] | print_update_stats  |: POS ERROR     : (-0.065, 0.334, 3254.839)
+2026-04-22 13:08:13,986 | MainThread   | [INFO    ] | print_update_stats  |: ---------- UPDATE STATS -----------
+2026-04-22 13:08:17,048 | MainThread   | [INFO    ] | print_prediction_stats|: ---------- PREDICTION STATS -----------
+2026-04-22 13:08:17,055 | MainThread   | [INFO    ] | print_prediction_stats|: GT index         : (11, 6, 16)
+2026-04-22 13:08:17,055 | MainThread   | [INFO    ] | print_prediction_stats|: Prior Bel index  : (np.int64(11), np.int64(2), np.int64(14)) with prob = 0.1484902
+2026-04-22 13:08:17,055 | MainThread   | [INFO    ] | print_prediction_stats|: POS ERROR        : (-0.054, 1.262, 3273.319)
+2026-04-22 13:08:17,056 | MainThread   | [INFO    ] | print_prediction_stats|: ---------- PREDICTION STATS -----------
+2026-04-22 13:08:20,033 | MainThread   | [INFO    ] | print_update_stats  |: ---------- UPDATE STATS -----------
+2026-04-22 13:08:20,049 | MainThread   | [INFO    ] | print_update_stats  |: GT index      : (11, 6, 16)
+2026-04-22 13:08:20,049 | MainThread   | [INFO    ] | print_update_stats  |: Bel index     : (np.int64(11), np.int64(7), np.int64(16)) with prob = 1.0
+2026-04-22 13:08:20,049 | MainThread   | [INFO    ] | print_update_stats  |: Bel_bar prob at index = 4.941376714830968e-39
+2026-04-22 13:08:20,050 | MainThread   | [INFO    ] | print_update_stats  |: GT            : (1.775, 0.652, 3744.273)
+2026-04-22 13:08:20,050 | MainThread   | [INFO    ] | print_update_stats  |: Belief        : (1.829, 0.914, 150.000)
+2026-04-22 13:08:20,050 | MainThread   | [INFO    ] | print_update_stats  |: POS ERROR     : (-0.054, -0.262, 3594.273)
+2026-04-22 13:08:20,050 | MainThread   | [INFO    ] | print_update_stats  |: ---------- UPDATE STATS -----------
+2026-04-22 13:08:22,098 | MainThread   | [INFO    ] | print_prediction_stats|: ---------- PREDICTION STATS -----------
+2026-04-22 13:08:22,102 | MainThread   | [INFO    ] | print_prediction_stats|: GT index         : (10, 7, 16)
+2026-04-22 13:08:22,102 | MainThread   | [INFO    ] | print_prediction_stats|: Prior Bel index  : (np.int64(11), np.int64(8), np.int64(15)) with prob = 0.4865072
+2026-04-22 13:08:22,103 | MainThread   | [INFO    ] | print_prediction_stats|: POS ERROR        : (-0.453, -0.280, 3625.162)
+2026-04-22 13:08:22,103 | MainThread   | [INFO    ] | print_prediction_stats|: ---------- PREDICTION STATS -----------
+2026-04-22 13:08:25,085 | MainThread   | [INFO    ] | print_update_stats  |: ---------- UPDATE STATS -----------
+2026-04-22 13:08:25,095 | MainThread   | [INFO    ] | print_update_stats  |: GT index      : (10, 7, 16)
+2026-04-22 13:08:25,095 | MainThread   | [INFO    ] | print_update_stats  |: Bel index     : (np.int64(10), np.int64(7), np.int64(16)) with prob = 1.0
+2026-04-22 13:08:25,096 | MainThread   | [INFO    ] | print_update_stats  |: Bel_bar prob at index = 2.8825527776864096e-15
+2026-04-22 13:08:25,096 | MainThread   | [INFO    ] | print_update_stats  |: GT            : (1.376, 0.940, 4115.544)
+2026-04-22 13:08:25,096 | MainThread   | [INFO    ] | print_update_stats  |: Belief        : (1.524, 0.914, 150.000)
+2026-04-22 13:08:25,097 | MainThread   | [INFO    ] | print_update_stats  |: POS ERROR     : (-0.148, 0.025, 3965.544)
+2026-04-22 13:08:25,097 | MainThread   | [INFO    ] | print_update_stats  |: ---------- UPDATE STATS -----------
+2026-04-22 13:08:28,163 | MainThread   | [INFO    ] | print_prediction_stats|: ---------- PREDICTION STATS -----------
+2026-04-22 13:08:28,170 | MainThread   | [INFO    ] | print_prediction_stats|: GT index         : (7, 8, 1)
+2026-04-22 13:08:28,170 | MainThread   | [INFO    ] | print_prediction_stats|: Prior Bel index  : (np.int64(7), np.int64(8), np.int64(0)) with prob = 0.0884499
+2026-04-22 13:08:28,171 | MainThread   | [INFO    ] | print_prediction_stats|: POS ERROR        : (-0.034, 0.027, 4335.301)
+2026-04-22 13:08:28,171 | MainThread   | [INFO    ] | print_prediction_stats|: ---------- PREDICTION STATS -----------
+2026-04-22 13:08:35,073 | MainThread   | [INFO    ] | print_update_stats  |: ---------- UPDATE STATS -----------
+2026-04-22 13:08:35,089 | MainThread   | [INFO    ] | print_update_stats  |: GT index      : (8, 6, 1)
+2026-04-22 13:08:35,090 | MainThread   | [INFO    ] | print_update_stats  |: Bel index     : (np.int64(8), np.int64(7), np.int64(0)) with prob = 0.9999999
+2026-04-22 13:08:35,090 | MainThread   | [INFO    ] | print_update_stats  |: Bel_bar prob at index = 0.03730787767061574
+2026-04-22 13:08:35,090 | MainThread   | [INFO    ] | print_update_stats  |: GT            : (0.690, 0.779, 4526.012)
+2026-04-22 13:08:35,090 | MainThread   | [INFO    ] | print_update_stats  |: Belief        : (0.914, 0.914, -170.000)
+2026-04-22 13:08:35,091 | MainThread   | [INFO    ] | print_update_stats  |: POS ERROR     : (-0.224, -0.136, 4696.012)
+2026-04-22 13:08:35,091 | MainThread   | [INFO    ] | print_update_stats  |: ---------- UPDATE STATS -----------
+2026-04-22 13:08:37,139 | MainThread   | [INFO    ] | print_prediction_stats|: ---------- PREDICTION STATS -----------
+2026-04-22 13:08:37,147 | MainThread   | [INFO    ] | print_prediction_stats|: GT index         : (6, 5, 3)
+2026-04-22 13:08:37,147 | MainThread   | [INFO    ] | print_prediction_stats|: Prior Bel index  : (np.int64(5), np.int64(5), np.int64(2)) with prob = 0.0582889
+2026-04-22 13:08:37,147 | MainThread   | [INFO    ] | print_prediction_stats|: POS ERROR        : (0.117, 0.190, 4699.566)
+2026-04-22 13:08:37,148 | MainThread   | [INFO    ] | print_prediction_stats|: ---------- PREDICTION STATS -----------
+2026-04-22 13:08:40,136 | MainThread   | [INFO    ] | print_update_stats  |: ---------- UPDATE STATS -----------
+2026-04-22 13:08:40,152 | MainThread   | [INFO    ] | print_update_stats  |: GT index      : (6, 5, 3)
+2026-04-22 13:08:40,153 | MainThread   | [INFO    ] | print_update_stats  |: Bel index     : (np.int64(5), np.int64(6), np.int64(3)) with prob = 1.0
+2026-04-22 13:08:40,153 | MainThread   | [INFO    ] | print_update_stats  |: Bel_bar prob at index = 0.002511647993005948
+2026-04-22 13:08:40,153 | MainThread   | [INFO    ] | print_update_stats  |: GT            : (0.117, 0.495, 4931.095)
+2026-04-22 13:08:40,154 | MainThread   | [INFO    ] | print_update_stats  |: Belief        : (0.000, 0.610, -110.000)
+2026-04-22 13:08:40,154 | MainThread   | [INFO    ] | print_update_stats  |: POS ERROR     : (0.117, -0.115, 5041.095)
+2026-04-22 13:08:40,154 | MainThread   | [INFO    ] | print_update_stats  |: ---------- UPDATE STATS -----------
+2026-04-22 13:08:42,211 | MainThread   | [INFO    ] | print_prediction_stats|: ---------- PREDICTION STATS -----------
+2026-04-22 13:08:42,217 | MainThread   | [INFO    ] | print_prediction_stats|: GT index         : (5, 5, 0)
+2026-04-22 13:08:42,217 | MainThread   | [INFO    ] | print_prediction_stats|: Prior Bel index  : (np.int64(3), np.int64(7), np.int64(15)) with prob = 0.1112354
+2026-04-22 13:08:42,217 | MainThread   | [INFO    ] | print_prediction_stats|: POS ERROR        : (0.340, -0.435, 4732.351)
+2026-04-22 13:08:42,218 | MainThread   | [INFO    ] | print_prediction_stats|: ---------- PREDICTION STATS -----------
+2026-04-22 13:08:45,190 | MainThread   | [INFO    ] | print_update_stats  |: ---------- UPDATE STATS -----------
+2026-04-22 13:08:45,200 | MainThread   | [INFO    ] | print_update_stats  |: GT index      : (5, 5, 0)
+2026-04-22 13:08:45,201 | MainThread   | [INFO    ] | print_update_stats  |: Bel index     : (np.int64(4), np.int64(5), np.int64(0)) with prob = 0.9958680
+2026-04-22 13:08:45,201 | MainThread   | [INFO    ] | print_update_stats  |: Bel_bar prob at index = 3.330237936775448e-06
+2026-04-22 13:08:45,201 | MainThread   | [INFO    ] | print_update_stats  |: GT            : (-0.270, 0.479, 5222.351)
+2026-04-22 13:08:45,202 | MainThread   | [INFO    ] | print_update_stats  |: Belief        : (-0.305, 0.305, -170.000)
+2026-04-22 13:08:45,202 | MainThread   | [INFO    ] | print_update_stats  |: POS ERROR     : (0.035, 0.174, 5392.351)
+2026-04-22 13:08:45,202 | MainThread   | [INFO    ] | print_update_stats  |: ---------- UPDATE STATS -----------
+2026-04-22 13:08:48,264 | MainThread   | [INFO    ] | print_prediction_stats|: ---------- PREDICTION STATS -----------
+2026-04-22 13:08:48,278 | MainThread   | [INFO    ] | print_prediction_stats|: GT index         : (4, 6, 16)
+2026-04-22 13:08:48,279 | MainThread   | [INFO    ] | print_prediction_stats|: Prior Bel index  : (np.int64(1), np.int64(5), np.int64(0)) with prob = 0.0686214
+2026-04-22 13:08:48,279 | MainThread   | [INFO    ] | print_prediction_stats|: POS ERROR        : (0.661, 0.314, 5365.045)
+2026-04-22 13:08:48,279 | MainThread   | [INFO    ] | print_prediction_stats|: ---------- PREDICTION STATS -----------
+2026-04-22 13:08:51,256 | MainThread   | [INFO    ] | print_update_stats  |: ---------- UPDATE STATS -----------
+2026-04-22 13:08:51,270 | MainThread   | [INFO    ] | print_update_stats  |: GT index      : (4, 6, 16)
+2026-04-22 13:08:51,270 | MainThread   | [INFO    ] | print_update_stats  |: Bel index     : (np.int64(4), np.int64(7), np.int64(16)) with prob = 0.9988705
+2026-04-22 13:08:51,271 | MainThread   | [INFO    ] | print_update_stats  |: Bel_bar prob at index = 2.114228231625093e-14
+2026-04-22 13:08:51,271 | MainThread   | [INFO    ] | print_update_stats  |: GT            : (-0.558, 0.618, 5555.236)
+2026-04-22 13:08:51,271 | MainThread   | [INFO    ] | print_update_stats  |: Belief        : (-0.305, 0.914, 150.000)
+2026-04-22 13:08:51,271 | MainThread   | [INFO    ] | print_update_stats  |: POS ERROR     : (-0.253, -0.296, 5405.236)
+2026-04-22 13:08:51,272 | MainThread   | [INFO    ] | print_update_stats  |: ---------- UPDATE STATS -----------
+2026-04-22 13:08:54,340 | MainThread   | [INFO    ] | print_prediction_stats|: ---------- PREDICTION STATS -----------
+2026-04-22 13:08:54,355 | MainThread   | [INFO    ] | print_prediction_stats|: GT index         : (3, 6, 13)
+2026-04-22 13:08:54,356 | MainThread   | [INFO    ] | print_prediction_stats|: Prior Bel index  : (np.int64(5), np.int64(7), np.int64(14)) with prob = 0.1236711
+2026-04-22 13:08:54,356 | MainThread   | [INFO    ] | print_prediction_stats|: POS ERROR        : (-0.659, -0.015, 5386.831)
+2026-04-22 13:08:54,356 | MainThread   | [INFO    ] | print_prediction_stats|: ---------- PREDICTION STATS -----------
+2026-04-22 13:09:03,479 | MainThread   | [INFO    ] | print_update_stats  |: ---------- UPDATE STATS -----------
+2026-04-22 13:09:03,495 | MainThread   | [INFO    ] | print_update_stats  |: GT index      : (5, 7, 13)
+2026-04-22 13:09:03,496 | MainThread   | [INFO    ] | print_update_stats  |: Bel index     : (np.int64(4), np.int64(8), np.int64(13)) with prob = 0.7080926
+2026-04-22 13:09:03,496 | MainThread   | [INFO    ] | print_update_stats  |: Bel_bar prob at index = 3.343437283144287e-14
+2026-04-22 13:09:03,496 | MainThread   | [INFO    ] | print_update_stats  |: GT            : (-0.049, 1.049, 5856.831)
+2026-04-22 13:09:03,496 | MainThread   | [INFO    ] | print_update_stats  |: Belief        : (-0.305, 1.219, 90.000)
+2026-04-22 13:09:03,497 | MainThread   | [INFO    ] | print_update_stats  |: POS ERROR     : (0.256, -0.171, 5766.831)
+2026-04-22 13:09:03,497 | MainThread   | [INFO    ] | print_update_stats  |: ---------- UPDATE STATS -----------
+2026-04-22 13:09:49,776 | MainThread   | [INFO    ] | populate_views      |:  | Number of observations per grid cell: 18
+2026-04-22 13:09:49,777 | MainThread   | [INFO    ] | populate_views      |:  | Precaching Views...
+2026-04-22 13:09:50,681 | MainThread   | [INFO    ] | populate_views      |:  | Precaching Time: 0.903 secs
+2026-04-22 13:09:50,681 | MainThread   | [INFO    ] | init_uniform_distribution|: Initializing beliefs with a Uniform Distribution
+2026-04-22 13:09:50,682 | MainThread   | [INFO    ] | init_uniform_distribution|: Uniform Belief with each cell value: 0.00051440329218107
+2026-04-22 13:09:55,166 | MainThread   | [INFO    ] | init_uniform_distribution|: Initializing beliefs with a Uniform Distribution
+2026-04-22 13:09:55,166 | MainThread   | [INFO    ] | init_uniform_distribution|: Uniform Belief with each cell value: 0.00051440329218107
+2026-04-22 13:09:58,146 | MainThread   | [INFO    ] | print_update_stats  |: ---------- UPDATE STATS -----------
+2026-04-22 13:09:58,155 | MainThread   | [INFO    ] | print_update_stats  |: GT index      : (6, 4, 9)
+2026-04-22 13:09:58,155 | MainThread   | [INFO    ] | print_update_stats  |: Bel index     : (np.int64(5), np.int64(4), np.int64(9)) with prob = 0.8674340
+2026-04-22 13:09:58,155 | MainThread   | [INFO    ] | print_update_stats  |: Bel_bar prob at index = 0.00051440329218107
+2026-04-22 13:09:58,156 | MainThread   | [INFO    ] | print_update_stats  |: GT            : (0.000, 0.000, 360.000)
+2026-04-22 13:09:58,156 | MainThread   | [INFO    ] | print_update_stats  |: Belief        : (0.000, 0.000, 10.000)
+2026-04-22 13:09:58,156 | MainThread   | [INFO    ] | print_update_stats  |: POS ERROR     : (-0.000, -0.000, 350.000)
+2026-04-22 13:09:58,156 | MainThread   | [INFO    ] | print_update_stats  |: ---------- UPDATE STATS -----------
+2026-04-22 13:10:10,222 | MainThread   | [INFO    ] | print_prediction_stats|: ---------- PREDICTION STATS -----------
+2026-04-22 13:10:10,237 | MainThread   | [INFO    ] | print_prediction_stats|: GT index         : (6, 3, 7)
+2026-04-22 13:10:10,237 | MainThread   | [INFO    ] | print_prediction_stats|: Prior Bel index  : (np.int64(8), np.int64(5), np.int64(8)) with prob = 0.0705766
+2026-04-22 13:10:10,237 | MainThread   | [INFO    ] | print_prediction_stats|: POS ERROR        : (-0.633, -0.392, -29.725)
+2026-04-22 13:10:10,238 | MainThread   | [INFO    ] | print_prediction_stats|: ---------- PREDICTION STATS -----------
+2026-04-22 13:10:13,200 | MainThread   | [INFO    ] | print_update_stats  |: ---------- UPDATE STATS -----------
+2026-04-22 13:10:13,210 | MainThread   | [INFO    ] | print_update_stats  |: GT index      : (6, 3, 7)
+2026-04-22 13:10:13,211 | MainThread   | [INFO    ] | print_update_stats  |: Bel index     : (np.int64(6), np.int64(4), np.int64(6)) with prob = 0.9999999
+2026-04-22 13:10:13,211 | MainThread   | [INFO    ] | print_update_stats  |: Bel_bar prob at index = 0.009936720489170856
+2026-04-22 13:10:13,211 | MainThread   | [INFO    ] | print_update_stats  |: GT            : (0.282, -0.087, 320.275)
+2026-04-22 13:10:13,211 | MainThread   | [INFO    ] | print_update_stats  |: Belief        : (0.305, 0.000, -50.000)
+2026-04-22 13:10:13,212 | MainThread   | [INFO    ] | print_update_stats  |: POS ERROR     : (-0.023, -0.087, 370.275)
+2026-04-22 13:10:13,212 | MainThread   | [INFO    ] | print_update_stats  |: ---------- UPDATE STATS -----------
+2026-04-22 13:10:15,268 | MainThread   | [INFO    ] | print_prediction_stats|: ---------- PREDICTION STATS -----------
+2026-04-22 13:10:15,272 | MainThread   | [INFO    ] | print_prediction_stats|: GT index         : (7, 2, 5)
+2026-04-22 13:10:15,272 | MainThread   | [INFO    ] | print_prediction_stats|: Prior Bel index  : (np.int64(5), np.int64(1), np.int64(5)) with prob = 0.0722292
+2026-04-22 13:10:15,273 | MainThread   | [INFO    ] | print_prediction_stats|: POS ERROR        : (0.496, 0.413, 367.357)
+2026-04-22 13:10:15,273 | MainThread   | [INFO    ] | print_prediction_stats|: ---------- PREDICTION STATS -----------
+2026-04-22 13:10:19,237 | MainThread   | [INFO    ] | print_update_stats  |: ---------- UPDATE STATS -----------
+2026-04-22 13:10:19,238 | MainThread   | [INFO    ] | print_update_stats  |: GT index      : (7, 2, 5)
+2026-04-22 13:10:19,238 | MainThread   | [INFO    ] | print_update_stats  |: Bel index     : (np.int64(6), np.int64(2), np.int64(5)) with prob = 1.0
+2026-04-22 13:10:19,238 | MainThread   | [INFO    ] | print_update_stats  |: Bel_bar prob at index = 0.04268723350537923
+2026-04-22 13:10:19,239 | MainThread   | [INFO    ] | print_update_stats  |: GT            : (0.508, -0.524, 657.357)
+2026-04-22 13:10:19,239 | MainThread   | [INFO    ] | print_update_stats  |: Belief        : (0.305, -0.610, -70.000)
+2026-04-22 13:10:19,239 | MainThread   | [INFO    ] | print_update_stats  |: POS ERROR     : (0.203, 0.086, 727.357)
+2026-04-22 13:10:19,239 | MainThread   | [INFO    ] | print_update_stats  |: ---------- UPDATE STATS -----------
+2026-04-22 13:10:20,303 | MainThread   | [INFO    ] | print_prediction_stats|: ---------- PREDICTION STATS -----------
+2026-04-22 13:10:20,310 | MainThread   | [INFO    ] | print_prediction_stats|: GT index         : (7, 2, 4)
+2026-04-22 13:10:20,310 | MainThread   | [INFO    ] | print_prediction_stats|: Prior Bel index  : (np.int64(5), np.int64(2), np.int64(4)) with prob = 0.1711648
+2026-04-22 13:10:20,310 | MainThread   | [INFO    ] | print_prediction_stats|: POS ERROR        : (0.508, 0.086, 724.437)
+2026-04-22 13:10:20,310 | MainThread   | [INFO    ] | print_prediction_stats|: ---------- PREDICTION STATS -----------
+2026-04-22 13:10:23,300 | MainThread   | [INFO    ] | print_update_stats  |: ---------- UPDATE STATS -----------
+2026-04-22 13:10:23,313 | MainThread   | [INFO    ] | print_update_stats  |: GT index      : (7, 2, 4)
+2026-04-22 13:10:23,313 | MainThread   | [INFO    ] | print_update_stats  |: Bel index     : (np.int64(6), np.int64(2), np.int64(4)) with prob = 1.0
+2026-04-22 13:10:23,313 | MainThread   | [INFO    ] | print_update_stats  |: Bel_bar prob at index = 4.121544369087537e-59
+2026-04-22 13:10:23,314 | MainThread   | [INFO    ] | print_update_stats  |: GT            : (0.508, -0.524, 994.437)
+2026-04-22 13:10:23,314 | MainThread   | [INFO    ] | print_update_stats  |: Belief        : (0.305, -0.610, -90.000)
+2026-04-22 13:10:23,314 | MainThread   | [INFO    ] | print_update_stats  |: POS ERROR     : (0.203, 0.086, 1084.437)
+2026-04-22 13:10:23,314 | MainThread   | [INFO    ] | print_update_stats  |: ---------- UPDATE STATS -----------
+2026-04-22 13:10:24,376 | MainThread   | [INFO    ] | print_prediction_stats|: ---------- PREDICTION STATS -----------
+2026-04-22 13:10:24,381 | MainThread   | [INFO    ] | print_prediction_stats|: GT index         : (7, 1, 4)
+2026-04-22 13:10:24,381 | MainThread   | [INFO    ] | print_prediction_stats|: Prior Bel index  : (np.int64(7), np.int64(0), np.int64(4)) with prob = 0.1992187
+2026-04-22 13:10:24,381 | MainThread   | [INFO    ] | print_prediction_stats|: POS ERROR        : (-0.072, 0.316, 1084.437)
+2026-04-22 13:10:24,382 | MainThread   | [INFO    ] | print_prediction_stats|: ---------- PREDICTION STATS -----------
+2026-04-22 13:10:27,371 | MainThread   | [INFO    ] | print_update_stats  |: ---------- UPDATE STATS -----------
+2026-04-22 13:10:27,387 | MainThread   | [INFO    ] | print_update_stats  |: GT index      : (7, 0, 4)
+2026-04-22 13:10:27,387 | MainThread   | [INFO    ] | print_update_stats  |: Bel index     : (np.int64(7), np.int64(1), np.int64(4)) with prob = 1.0
+2026-04-22 13:10:27,387 | MainThread   | [INFO    ] | print_update_stats  |: Bel_bar prob at index = 0.011110713569346382
+2026-04-22 13:10:27,387 | MainThread   | [INFO    ] | print_update_stats  |: GT            : (0.539, -0.923, 1354.437)
+2026-04-22 13:10:27,388 | MainThread   | [INFO    ] | print_update_stats  |: Belief        : (0.610, -0.914, -90.000)
+2026-04-22 13:10:27,388 | MainThread   | [INFO    ] | print_update_stats  |: POS ERROR     : (-0.071, -0.008, 1444.437)
+2026-04-22 13:10:27,388 | MainThread   | [INFO    ] | print_update_stats  |: ---------- UPDATE STATS -----------
+2026-04-22 13:10:30,445 | MainThread   | [INFO    ] | print_prediction_stats|: ---------- PREDICTION STATS -----------
+2026-04-22 13:10:30,453 | MainThread   | [INFO    ] | print_prediction_stats|: GT index         : (8, 0, 8)
+2026-04-22 13:10:30,453 | MainThread   | [INFO    ] | print_prediction_stats|: Prior Bel index  : (np.int64(5), np.int64(0), np.int64(12)) with prob = 0.1620575
+2026-04-22 13:10:30,453 | MainThread   | [INFO    ] | print_prediction_stats|: POS ERROR        : (0.796, 0.153, 1368.947)
+2026-04-22 13:10:30,453 | MainThread   | [INFO    ] | print_prediction_stats|: ---------- PREDICTION STATS -----------
+2026-04-22 13:10:33,448 | MainThread   | [INFO    ] | print_update_stats  |: ---------- UPDATE STATS -----------
+2026-04-22 13:10:33,464 | MainThread   | [INFO    ] | print_update_stats  |: GT index      : (8, 0, 8)
+2026-04-22 13:10:33,464 | MainThread   | [INFO    ] | print_update_stats  |: Bel index     : (np.int64(6), np.int64(1), np.int64(8)) with prob = 0.9999993
+2026-04-22 13:10:33,464 | MainThread   | [INFO    ] | print_update_stats  |: Bel_bar prob at index = 0.0005136664345644787
+2026-04-22 13:10:33,464 | MainThread   | [INFO    ] | print_update_stats  |: GT            : (0.796, -1.067, 1798.947)
+2026-04-22 13:10:33,465 | MainThread   | [INFO    ] | print_update_stats  |: Belief        : (0.305, -0.914, -10.000)
+2026-04-22 13:10:33,465 | MainThread   | [INFO    ] | print_update_stats  |: POS ERROR     : (0.491, -0.152, 1808.947)
+2026-04-22 13:10:33,465 | MainThread   | [INFO    ] | print_update_stats  |: ---------- UPDATE STATS -----------
+2026-04-22 13:10:39,533 | MainThread   | [INFO    ] | print_prediction_stats|: ---------- PREDICTION STATS -----------
+2026-04-22 13:10:39,539 | MainThread   | [INFO    ] | print_prediction_stats|: GT index         : (11, 0, 11)
+2026-04-22 13:10:39,539 | MainThread   | [INFO    ] | print_prediction_stats|: Prior Bel index  : (np.int64(7), np.int64(0), np.int64(9)) with prob = 0.2215037
+2026-04-22 13:10:39,540 | MainThread   | [INFO    ] | print_prediction_stats|: POS ERROR        : (0.961, 0.293, 1837.503)
+2026-04-22 13:10:39,540 | MainThread   | [INFO    ] | print_prediction_stats|: ---------- PREDICTION STATS -----------
+2026-04-22 13:10:42,504 | MainThread   | [INFO    ] | print_update_stats  |: ---------- UPDATE STATS -----------
+2026-04-22 13:10:42,518 | MainThread   | [INFO    ] | print_update_stats  |: GT index      : (11, 0, 11)
+2026-04-22 13:10:42,519 | MainThread   | [INFO    ] | print_update_stats  |: Bel index     : (np.int64(10), np.int64(1), np.int64(11)) with prob = 1.0
+2026-04-22 13:10:42,519 | MainThread   | [INFO    ] | print_update_stats  |: Bel_bar prob at index = 0.002973443776365673
+2026-04-22 13:10:42,519 | MainThread   | [INFO    ] | print_update_stats  |: GT            : (1.570, -0.926, 2207.818)
+2026-04-22 13:10:42,520 | MainThread   | [INFO    ] | print_update_stats  |: Belief        : (1.524, -0.914, 50.000)
+2026-04-22 13:10:42,520 | MainThread   | [INFO    ] | print_update_stats  |: POS ERROR     : (0.046, -0.011, 2157.818)
+2026-04-22 13:10:42,520 | MainThread   | [INFO    ] | print_update_stats  |: ---------- UPDATE STATS -----------
+2026-04-22 13:10:44,583 | MainThread   | [INFO    ] | print_prediction_stats|: ---------- PREDICTION STATS -----------
+2026-04-22 13:10:44,590 | MainThread   | [INFO    ] | print_prediction_stats|: GT index         : (11, 2, 12)
+2026-04-22 13:10:44,591 | MainThread   | [INFO    ] | print_prediction_stats|: Prior Bel index  : (np.int64(11), np.int64(3), np.int64(12)) with prob = 0.1018000
+2026-04-22 13:10:44,591 | MainThread   | [INFO    ] | print_prediction_stats|: POS ERROR        : (-0.167, -0.252, 2165.995)
+2026-04-22 13:10:44,591 | MainThread   | [INFO    ] | print_prediction_stats|: ---------- PREDICTION STATS -----------
+2026-04-22 13:10:47,566 | MainThread   | [INFO    ] | print_update_stats  |: ---------- UPDATE STATS -----------
+2026-04-22 13:10:47,576 | MainThread   | [INFO    ] | print_update_stats  |: GT index      : (11, 2, 12)
+2026-04-22 13:10:47,576 | MainThread   | [INFO    ] | print_update_stats  |: Bel index     : (np.int64(11), np.int64(3), np.int64(13)) with prob = 1.0
+2026-04-22 13:10:47,576 | MainThread   | [INFO    ] | print_update_stats  |: Bel_bar prob at index = 0.095591701673783
+2026-04-22 13:10:47,577 | MainThread   | [INFO    ] | print_update_stats  |: GT            : (1.667, -0.538, 2595.995)
+2026-04-22 13:10:47,577 | MainThread   | [INFO    ] | print_update_stats  |: Belief        : (1.829, -0.305, 90.000)
+2026-04-22 13:10:47,577 | MainThread   | [INFO    ] | print_update_stats  |: POS ERROR     : (-0.162, -0.233, 2505.995)
+2026-04-22 13:10:47,577 | MainThread   | [INFO    ] | print_update_stats  |: ---------- UPDATE STATS -----------
+2026-04-22 13:10:49,641 | MainThread   | [INFO    ] | print_prediction_stats|: ---------- PREDICTION STATS -----------
+2026-04-22 13:10:49,647 | MainThread   | [INFO    ] | print_prediction_stats|: GT index         : (11, 3, 13)
+2026-04-22 13:10:49,647 | MainThread   | [INFO    ] | print_prediction_stats|: Prior Bel index  : (np.int64(11), np.int64(5), np.int64(13)) with prob = 0.1096378
+2026-04-22 13:10:49,647 | MainThread   | [INFO    ] | print_prediction_stats|: POS ERROR        : (-0.076, -0.499, 2511.630)
+2026-04-22 13:10:49,648 | MainThread   | [INFO    ] | print_prediction_stats|: ---------- PREDICTION STATS -----------
+2026-04-22 13:10:52,622 | MainThread   | [INFO    ] | print_update_stats  |: ---------- UPDATE STATS -----------
+2026-04-22 13:10:52,637 | MainThread   | [INFO    ] | print_update_stats  |: GT index      : (11, 3, 13)
+2026-04-22 13:10:52,637 | MainThread   | [INFO    ] | print_update_stats  |: Bel index     : (np.int64(11), np.int64(3), np.int64(13)) with prob = 1.0
+2026-04-22 13:10:52,637 | MainThread   | [INFO    ] | print_update_stats  |: Bel_bar prob at index = 2.4867752222078385e-16
+2026-04-22 13:10:52,637 | MainThread   | [INFO    ] | print_update_stats  |: GT            : (1.753, -0.194, 2961.630)
+2026-04-22 13:10:52,638 | MainThread   | [INFO    ] | print_update_stats  |: Belief        : (1.829, -0.305, 90.000)
+2026-04-22 13:10:52,638 | MainThread   | [INFO    ] | print_update_stats  |: POS ERROR     : (-0.076, 0.111, 2871.630)
+2026-04-22 13:10:52,638 | MainThread   | [INFO    ] | print_update_stats  |: ---------- UPDATE STATS -----------
+2026-04-22 13:10:55,697 | MainThread   | [INFO    ] | print_prediction_stats|: ---------- PREDICTION STATS -----------
+2026-04-22 13:10:55,704 | MainThread   | [INFO    ] | print_prediction_stats|: GT index         : (11, 4, 14)
+2026-04-22 13:10:55,704 | MainThread   | [INFO    ] | print_prediction_stats|: Prior Bel index  : (np.int64(10), np.int64(5), np.int64(13)) with prob = 0.0922689
+2026-04-22 13:10:55,704 | MainThread   | [INFO    ] | print_prediction_stats|: POS ERROR        : (0.251, -0.008, 2893.980)
+2026-04-22 13:10:55,705 | MainThread   | [INFO    ] | print_prediction_stats|: ---------- PREDICTION STATS -----------
+2026-04-22 13:10:58,673 | MainThread   | [INFO    ] | print_update_stats  |: ---------- UPDATE STATS -----------
+2026-04-22 13:10:58,683 | MainThread   | [INFO    ] | print_update_stats  |: GT index      : (11, 4, 14)
+2026-04-22 13:10:58,684 | MainThread   | [INFO    ] | print_update_stats  |: Bel index     : (np.int64(11), np.int64(4), np.int64(13)) with prob = 0.9991962
+2026-04-22 13:10:58,684 | MainThread   | [INFO    ] | print_update_stats  |: Bel_bar prob at index = 0.0007088300063406448
+2026-04-22 13:10:58,684 | MainThread   | [INFO    ] | print_update_stats  |: GT            : (1.775, 0.297, 3343.980)
+2026-04-22 13:10:58,684 | MainThread   | [INFO    ] | print_update_stats  |: Belief        : (1.829, 0.000, 90.000)
+2026-04-22 13:10:58,685 | MainThread   | [INFO    ] | print_update_stats  |: POS ERROR     : (-0.054, 0.297, 3253.980)
+2026-04-22 13:10:58,685 | MainThread   | [INFO    ] | print_update_stats  |: ---------- UPDATE STATS -----------
+2026-04-22 13:11:01,764 | MainThread   | [INFO    ] | print_prediction_stats|: ---------- PREDICTION STATS -----------
+2026-04-22 13:11:01,780 | MainThread   | [INFO    ] | print_prediction_stats|: GT index         : (11, 6, 16)
+2026-04-22 13:11:01,780 | MainThread   | [INFO    ] | print_prediction_stats|: Prior Bel index  : (np.int64(11), np.int64(4), np.int64(15)) with prob = 0.5082994
+2026-04-22 13:11:01,780 | MainThread   | [INFO    ] | print_prediction_stats|: POS ERROR        : (-0.037, 0.621, 3252.459)
+2026-04-22 13:11:01,780 | MainThread   | [INFO    ] | print_prediction_stats|: ---------- PREDICTION STATS -----------
+2026-04-22 13:11:04,756 | MainThread   | [INFO    ] | print_update_stats  |: ---------- UPDATE STATS -----------
+2026-04-22 13:11:04,768 | MainThread   | [INFO    ] | print_update_stats  |: GT index      : (11, 6, 16)
+2026-04-22 13:11:04,768 | MainThread   | [INFO    ] | print_update_stats  |: Bel index     : (np.int64(11), np.int64(7), np.int64(16)) with prob = 1.0
+2026-04-22 13:11:04,768 | MainThread   | [INFO    ] | print_update_stats  |: Bel_bar prob at index = 1.6954043437278262e-15
+2026-04-22 13:11:04,768 | MainThread   | [INFO    ] | print_update_stats  |: GT            : (1.792, 0.621, 3743.414)
+2026-04-22 13:11:04,768 | MainThread   | [INFO    ] | print_update_stats  |: Belief        : (1.829, 0.914, 150.000)
+2026-04-22 13:11:04,769 | MainThread   | [INFO    ] | print_update_stats  |: POS ERROR     : (-0.037, -0.293, 3593.414)
+2026-04-22 13:11:04,769 | MainThread   | [INFO    ] | print_update_stats  |: ---------- UPDATE STATS -----------
+2026-04-22 13:11:06,823 | MainThread   | [INFO    ] | print_prediction_stats|: ---------- PREDICTION STATS -----------
+2026-04-22 13:11:06,830 | MainThread   | [INFO    ] | print_prediction_stats|: GT index         : (10, 7, 16)
+2026-04-22 13:11:06,830 | MainThread   | [INFO    ] | print_prediction_stats|: Prior Bel index  : (np.int64(10), np.int64(6), np.int64(16)) with prob = 0.1657492
+2026-04-22 13:11:06,830 | MainThread   | [INFO    ] | print_prediction_stats|: POS ERROR        : (-0.134, 0.309, 3603.920)
+2026-04-22 13:11:06,831 | MainThread   | [INFO    ] | print_prediction_stats|: ---------- PREDICTION STATS -----------
+2026-04-22 13:11:09,822 | MainThread   | [INFO    ] | print_update_stats  |: ---------- UPDATE STATS -----------
+2026-04-22 13:11:09,832 | MainThread   | [INFO    ] | print_update_stats  |: GT index      : (10, 7, 16)
+2026-04-22 13:11:09,832 | MainThread   | [INFO    ] | print_update_stats  |: Bel index     : (np.int64(10), np.int64(6), np.int64(16)) with prob = 1.0
+2026-04-22 13:11:09,833 | MainThread   | [INFO    ] | print_update_stats  |: Bel_bar prob at index = 0.16574929629190324
+2026-04-22 13:11:09,833 | MainThread   | [INFO    ] | print_update_stats  |: GT            : (1.390, 0.919, 4114.494)
+2026-04-22 13:11:09,833 | MainThread   | [INFO    ] | print_update_stats  |: Belief        : (1.524, 0.610, 150.000)
+2026-04-22 13:11:09,834 | MainThread   | [INFO    ] | print_update_stats  |: POS ERROR     : (-0.134, 0.309, 3964.494)
+2026-04-22 13:11:09,834 | MainThread   | [INFO    ] | print_update_stats  |: ---------- UPDATE STATS -----------
+2026-04-22 13:11:12,900 | MainThread   | [INFO    ] | print_prediction_stats|: ---------- PREDICTION STATS -----------
+2026-04-22 13:11:12,907 | MainThread   | [INFO    ] | print_prediction_stats|: GT index         : (7, 6, 3)
+2026-04-22 13:11:12,907 | MainThread   | [INFO    ] | print_prediction_stats|: Prior Bel index  : (np.int64(8), np.int64(5), np.int64(3)) with prob = 0.1290612
+2026-04-22 13:11:12,907 | MainThread   | [INFO    ] | print_prediction_stats|: POS ERROR        : (-0.393, 0.567, 4320.732)
+2026-04-22 13:11:12,908 | MainThread   | [INFO    ] | print_prediction_stats|: ---------- PREDICTION STATS -----------
+2026-04-22 13:11:15,898 | MainThread   | [INFO    ] | print_update_stats  |: ---------- UPDATE STATS -----------
+2026-04-22 13:11:15,909 | MainThread   | [INFO    ] | print_update_stats  |: GT index      : (7, 6, 3)
+2026-04-22 13:11:15,910 | MainThread   | [INFO    ] | print_update_stats  |: Bel index     : (np.int64(7), np.int64(7), np.int64(3)) with prob = 1.0
+2026-04-22 13:11:15,910 | MainThread   | [INFO    ] | print_update_stats  |: Bel_bar prob at index = 2.806521106551928e-06
+2026-04-22 13:11:15,910 | MainThread   | [INFO    ] | print_update_stats  |: GT            : (0.522, 0.871, 4570.732)
+2026-04-22 13:11:15,910 | MainThread   | [INFO    ] | print_update_stats  |: Belief        : (0.610, 0.914, -110.000)
+2026-04-22 13:11:15,911 | MainThread   | [INFO    ] | print_update_stats  |: POS ERROR     : (-0.088, -0.043, 4680.732)
+2026-04-22 13:11:15,911 | MainThread   | [INFO    ] | print_update_stats  |: ---------- UPDATE STATS -----------
+2026-04-22 13:11:17,977 | MainThread   | [INFO    ] | print_prediction_stats|: ---------- PREDICTION STATS -----------
+2026-04-22 13:11:17,984 | MainThread   | [INFO    ] | print_prediction_stats|: GT index         : (7, 4, 5)
+2026-04-22 13:11:17,984 | MainThread   | [INFO    ] | print_prediction_stats|: Prior Bel index  : (np.int64(8), np.int64(5), np.int64(7)) with prob = 0.1175467
+2026-04-22 13:11:17,984 | MainThread   | [INFO    ] | print_prediction_stats|: POS ERROR        : (-0.607, -0.047, 4643.522)
+2026-04-22 13:11:17,985 | MainThread   | [INFO    ] | print_prediction_stats|: ---------- PREDICTION STATS -----------
+2026-04-22 13:11:20,964 | MainThread   | [INFO    ] | print_update_stats  |: ---------- UPDATE STATS -----------
+2026-04-22 13:11:20,976 | MainThread   | [INFO    ] | print_update_stats  |: GT index      : (7, 4, 5)
+2026-04-22 13:11:20,976 | MainThread   | [INFO    ] | print_update_stats  |: Bel index     : (np.int64(6), np.int64(5), np.int64(5)) with prob = 1.0
+2026-04-22 13:11:20,976 | MainThread   | [INFO    ] | print_update_stats  |: Bel_bar prob at index = 0.0009920526192707304
+2026-04-22 13:11:20,977 | MainThread   | [INFO    ] | print_update_stats  |: GT            : (0.307, 0.258, 4975.815)
+2026-04-22 13:11:20,977 | MainThread   | [INFO    ] | print_update_stats  |: Belief        : (0.305, 0.305, -70.000)
+2026-04-22 13:11:20,977 | MainThread   | [INFO    ] | print_update_stats  |: POS ERROR     : (0.002, -0.047, 5045.815)
+2026-04-22 13:11:20,977 | MainThread   | [INFO    ] | print_update_stats  |: ---------- UPDATE STATS -----------
+2026-04-22 13:11:23,043 | MainThread   | [INFO    ] | print_prediction_stats|: ---------- PREDICTION STATS -----------
+2026-04-22 13:11:23,050 | MainThread   | [INFO    ] | print_prediction_stats|: GT index         : (6, 3, 2)
+2026-04-22 13:11:23,051 | MainThread   | [INFO    ] | print_prediction_stats|: Prior Bel index  : (np.int64(7), np.int64(3), np.int64(2)) with prob = 0.1210240
+2026-04-22 13:11:23,051 | MainThread   | [INFO    ] | print_prediction_stats|: POS ERROR        : (-0.566, 0.279, 5037.071)
+2026-04-22 13:11:23,051 | MainThread   | [INFO    ] | print_prediction_stats|: ---------- PREDICTION STATS -----------
+2026-04-22 13:11:26,038 | MainThread   | [INFO    ] | print_update_stats  |: ---------- UPDATE STATS -----------
+2026-04-22 13:11:26,054 | MainThread   | [INFO    ] | print_update_stats  |: GT index      : (6, 3, 2)
+2026-04-22 13:11:26,054 | MainThread   | [INFO    ] | print_update_stats  |: Bel index     : (np.int64(5), np.int64(3), np.int64(2)) with prob = 0.9999998
+2026-04-22 13:11:26,054 | MainThread   | [INFO    ] | print_update_stats  |: Bel_bar prob at index = 7.421801209828667e-07
+2026-04-22 13:11:26,054 | MainThread   | [INFO    ] | print_update_stats  |: GT            : (0.039, -0.030, 5267.072)
+2026-04-22 13:11:26,055 | MainThread   | [INFO    ] | print_update_stats  |: Belief        : (0.000, -0.305, -130.000)
+2026-04-22 13:11:26,055 | MainThread   | [INFO    ] | print_update_stats  |: POS ERROR     : (0.039, 0.275, 5397.072)
+2026-04-22 13:11:26,055 | MainThread   | [INFO    ] | print_update_stats  |: ---------- UPDATE STATS -----------
+2026-04-22 13:11:29,121 | MainThread   | [INFO    ] | print_prediction_stats|: ---------- PREDICTION STATS -----------
+2026-04-22 13:11:29,129 | MainThread   | [INFO    ] | print_prediction_stats|: GT index         : (4, 3, 1)
+2026-04-22 13:11:29,129 | MainThread   | [INFO    ] | print_prediction_stats|: Prior Bel index  : (np.int64(4), np.int64(5), np.int64(2)) with prob = 0.0864766
+2026-04-22 13:11:29,129 | MainThread   | [INFO    ] | print_prediction_stats|: POS ERROR        : (-0.029, -0.459, 5374.053)
+2026-04-22 13:11:29,129 | MainThread   | [INFO    ] | print_prediction_stats|: ---------- PREDICTION STATS -----------
+2026-04-22 13:11:32,129 | MainThread   | [INFO    ] | print_update_stats  |: ---------- UPDATE STATS -----------
+2026-04-22 13:11:32,142 | MainThread   | [INFO    ] | print_update_stats  |: GT index      : (4, 3, 1)
+2026-04-22 13:11:32,142 | MainThread   | [INFO    ] | print_update_stats  |: Bel index     : (np.int64(4), np.int64(3), np.int64(1)) with prob = 1.0
+2026-04-22 13:11:32,143 | MainThread   | [INFO    ] | print_update_stats  |: Bel_bar prob at index = 9.51800044219676e-13
+2026-04-22 13:11:32,143 | MainThread   | [INFO    ] | print_update_stats  |: GT            : (-0.334, -0.155, 5604.053)
+2026-04-22 13:11:32,143 | MainThread   | [INFO    ] | print_update_stats  |: Belief        : (-0.305, -0.305, -150.000)
+2026-04-22 13:11:32,143 | MainThread   | [INFO    ] | print_update_stats  |: POS ERROR     : (-0.029, 0.150, 5754.053)
+2026-04-22 13:11:32,144 | MainThread   | [INFO    ] | print_update_stats  |: ---------- UPDATE STATS -----------
+2026-04-22 13:11:35,205 | MainThread   | [INFO    ] | print_prediction_stats|: ---------- PREDICTION STATS -----------
+2026-04-22 13:11:35,211 | MainThread   | [INFO    ] | print_prediction_stats|: GT index         : (3, 3, 0)
+2026-04-22 13:11:35,212 | MainThread   | [INFO    ] | print_prediction_stats|: Prior Bel index  : (np.int64(3), np.int64(2), np.int64(1)) with prob = 0.1010782
+2026-04-22 13:11:35,212 | MainThread   | [INFO    ] | print_prediction_stats|: POS ERROR        : (-0.110, 0.486, 5730.939)
+2026-04-22 13:11:35,212 | MainThread   | [INFO    ] | print_prediction_stats|: ---------- PREDICTION STATS -----------
+2026-04-22 13:11:38,209 | MainThread   | [INFO    ] | print_update_stats  |: ---------- UPDATE STATS -----------
+2026-04-22 13:11:38,221 | MainThread   | [INFO    ] | print_update_stats  |: GT index      : (3, 3, 0)
+2026-04-22 13:11:38,221 | MainThread   | [INFO    ] | print_update_stats  |: Bel index     : (np.int64(3), np.int64(3), np.int64(0)) with prob = 0.9964563
+2026-04-22 13:11:38,221 | MainThread   | [INFO    ] | print_update_stats  |: Bel_bar prob at index = 0.00017180415121347857
+2026-04-22 13:11:38,221 | MainThread   | [INFO    ] | print_update_stats  |: GT            : (-0.719, -0.124, 5941.035)
+2026-04-22 13:11:38,222 | MainThread   | [INFO    ] | print_update_stats  |: Belief        : (-0.610, -0.305, -170.000)
+2026-04-22 13:11:38,222 | MainThread   | [INFO    ] | print_update_stats  |: POS ERROR     : (-0.110, 0.181, 6111.035)
+2026-04-22 13:11:38,222 | MainThread   | [INFO    ] | print_update_stats  |: ---------- UPDATE STATS -----------
+2026-04-22 15:20:38,983 | MainThread   | [INFO    ] | populate_views      |:  | Number of observations per grid cell: 18
+2026-04-22 15:20:38,983 | MainThread   | [INFO    ] | populate_views      |:  | Precaching Views...
+2026-04-22 15:20:39,858 | MainThread   | [INFO    ] | populate_views      |:  | Precaching Time: 0.874 secs
+2026-04-22 15:20:39,858 | MainThread   | [INFO    ] | init_uniform_distribution|: Initializing beliefs with a Uniform Distribution
+2026-04-22 15:20:39,858 | MainThread   | [INFO    ] | init_uniform_distribution|: Uniform Belief with each cell value: 0.00051440329218107
+2026-04-22 15:28:26,087 | MainThread   | [INFO    ] | populate_views      |:  | Number of observations per grid cell: 18
+2026-04-22 15:28:26,087 | MainThread   | [INFO    ] | populate_views      |:  | Precaching Views...
+2026-04-22 15:28:26,967 | MainThread   | [INFO    ] | populate_views      |:  | Precaching Time: 0.880 secs
+2026-04-22 15:28:26,968 | MainThread   | [INFO    ] | init_uniform_distribution|: Initializing beliefs with a Uniform Distribution
+2026-04-22 15:28:26,968 | MainThread   | [INFO    ] | init_uniform_distribution|: Uniform Belief with each cell value: 0.00051440329218107
+2026-04-22 15:34:56,128 | MainThread   | [INFO    ] | populate_views      |:  | Number of observations per grid cell: 18
+2026-04-22 15:34:56,129 | MainThread   | [INFO    ] | populate_views      |:  | Precaching Views...
+2026-04-22 15:34:57,030 | MainThread   | [INFO    ] | populate_views      |:  | Precaching Time: 0.901 secs
+2026-04-22 15:34:57,030 | MainThread   | [INFO    ] | init_uniform_distribution|: Initializing beliefs with a Uniform Distribution
+2026-04-22 15:34:57,031 | MainThread   | [INFO    ] | init_uniform_distribution|: Uniform Belief with each cell value: 0.00051440329218107
+2026-04-22 15:35:09,847 | MainThread   | [INFO    ] | init_uniform_distribution|: Initializing beliefs with a Uniform Distribution
+2026-04-22 15:35:09,847 | MainThread   | [INFO    ] | init_uniform_distribution|: Uniform Belief with each cell value: 0.00051440329218107
+2026-04-22 15:40:04,474 | MainThread   | [INFO    ] | populate_views      |:  | Number of observations per grid cell: 18
+2026-04-22 15:40:04,474 | MainThread   | [INFO    ] | populate_views      |:  | Precaching Views...
+2026-04-22 15:40:05,378 | MainThread   | [INFO    ] | populate_views      |:  | Precaching Time: 0.903 secs
+2026-04-22 15:40:05,379 | MainThread   | [INFO    ] | init_uniform_distribution|: Initializing beliefs with a Uniform Distribution
+2026-04-22 15:40:05,379 | MainThread   | [INFO    ] | init_uniform_distribution|: Uniform Belief with each cell value: 0.00051440329218107
+2026-04-22 15:40:16,773 | MainThread   | [INFO    ] | init_uniform_distribution|: Initializing beliefs with a Uniform Distribution
+2026-04-22 15:40:16,773 | MainThread   | [INFO    ] | init_uniform_distribution|: Uniform Belief with each cell value: 0.00051440329218107
+2026-04-22 15:44:57,231 | MainThread   | [INFO    ] | populate_views      |:  | Number of observations per grid cell: 18
+2026-04-22 15:44:57,231 | MainThread   | [INFO    ] | populate_views      |:  | Precaching Views...
+2026-04-22 15:44:58,121 | MainThread   | [INFO    ] | populate_views      |:  | Precaching Time: 0.889 secs
+2026-04-22 15:44:58,122 | MainThread   | [INFO    ] | init_uniform_distribution|: Initializing beliefs with a Uniform Distribution
+2026-04-22 15:44:58,122 | MainThread   | [INFO    ] | init_uniform_distribution|: Uniform Belief with each cell value: 0.00051440329218107
+2026-04-22 15:45:02,011 | MainThread   | [INFO    ] | init_uniform_distribution|: Initializing beliefs with a Uniform Distribution
+2026-04-22 15:45:02,011 | MainThread   | [INFO    ] | init_uniform_distribution|: Uniform Belief with each cell value: 0.00051440329218107
+2026-04-22 15:46:14,555 | MainThread   | [INFO    ] | init_uniform_distribution|: Initializing beliefs with a Uniform Distribution
+2026-04-22 15:46:14,555 | MainThread   | [INFO    ] | init_uniform_distribution|: Uniform Belief with each cell value: 0.00051440329218107
+2026-04-22 15:48:21,214 | MainThread   | [INFO    ] | init_uniform_distribution|: Initializing beliefs with a Uniform Distribution
+2026-04-22 15:48:21,215 | MainThread   | [INFO    ] | init_uniform_distribution|: Uniform Belief with each cell value: 0.00051440329218107
+2026-04-29 15:11:16,862 | MainThread   | [INFO    ] | populate_views      |:  | Number of observations per grid cell: 18
+2026-04-29 15:11:16,863 | MainThread   | [INFO    ] | populate_views      |:  | Precaching Views...
+2026-04-29 15:11:17,564 | MainThread   | [INFO    ] | populate_views      |:  | Precaching Time: 0.700 secs
+2026-04-29 15:11:17,564 | MainThread   | [INFO    ] | init_uniform_distribution|: Initializing beliefs with a Uniform Distribution
+2026-04-29 15:11:17,564 | MainThread   | [INFO    ] | init_uniform_distribution|: Uniform Belief with each cell value: 0.00051440329218107
+2026-04-29 15:34:07,679 | MainThread   | [INFO    ] | populate_views      |:  | Number of observations per grid cell: 18
+2026-04-29 15:34:07,679 | MainThread   | [INFO    ] | populate_views      |:  | Precaching Views...
+2026-04-29 15:34:08,497 | MainThread   | [INFO    ] | populate_views      |:  | Precaching Time: 0.817 secs
+2026-04-29 15:34:08,498 | MainThread   | [INFO    ] | init_uniform_distribution|: Initializing beliefs with a Uniform Distribution
+2026-04-29 15:34:08,498 | MainThread   | [INFO    ] | init_uniform_distribution|: Uniform Belief with each cell value: 0.00051440329218107
+2026-04-29 16:42:20,297 | MainThread   | [INFO    ] | populate_views      |:  | Number of observations per grid cell: 18
+2026-04-29 16:42:20,298 | MainThread   | [INFO    ] | populate_views      |:  | Precaching Views...
+2026-04-29 16:42:21,115 | MainThread   | [INFO    ] | populate_views      |:  | Precaching Time: 0.816 secs
+2026-04-29 16:42:21,115 | MainThread   | [INFO    ] | init_uniform_distribution|: Initializing beliefs with a Uniform Distribution
+2026-04-29 16:42:21,116 | MainThread   | [INFO    ] | init_uniform_distribution|: Uniform Belief with each cell value: 0.00051440329218107
+2026-04-29 17:34:38,144 | MainThread   | [INFO    ] | populate_views      |:  | Number of observations per grid cell: 18
+2026-04-29 17:34:38,146 | MainThread   | [INFO    ] | populate_views      |:  | Precaching Views...
+2026-04-29 17:34:38,845 | MainThread   | [INFO    ] | populate_views      |:  | Precaching Time: 0.699 secs
+2026-04-29 17:34:38,846 | MainThread   | [INFO    ] | init_uniform_distribution|: Initializing beliefs with a Uniform Distribution
+2026-04-29 17:34:38,846 | MainThread   | [INFO    ] | init_uniform_distribution|: Uniform Belief with each cell value: 0.00051440329218107
+2026-04-29 17:36:04,594 | MainThread   | [INFO    ] | populate_views      |:  | Number of observations per grid cell: 18
+2026-04-29 17:36:04,595 | MainThread   | [INFO    ] | populate_views      |:  | Precaching Views...
+2026-04-29 17:36:05,376 | MainThread   | [INFO    ] | populate_views      |:  | Precaching Time: 0.781 secs
+2026-04-29 17:36:05,377 | MainThread   | [INFO    ] | init_uniform_distribution|: Initializing beliefs with a Uniform Distribution
+2026-04-29 17:36:05,377 | MainThread   | [INFO    ] | init_uniform_distribution|: Uniform Belief with each cell value: 0.00051440329218107
+2026-04-29 17:42:07,039 | MainThread   | [INFO    ] | populate_views      |:  | Number of observations per grid cell: 18
+2026-04-29 17:42:07,041 | MainThread   | [INFO    ] | populate_views      |:  | Precaching Views...
+2026-04-29 17:42:07,847 | MainThread   | [INFO    ] | populate_views      |:  | Precaching Time: 0.806 secs
+2026-04-29 17:42:07,848 | MainThread   | [INFO    ] | init_uniform_distribution|: Initializing beliefs with a Uniform Distribution
+2026-04-29 17:42:07,848 | MainThread   | [INFO    ] | init_uniform_distribution|: Uniform Belief with each cell value: 0.00051440329218107
+2026-04-29 17:44:33,077 | MainThread   | [INFO    ] | populate_views      |:  | Number of observations per grid cell: 18
+2026-04-29 17:44:33,078 | MainThread   | [INFO    ] | populate_views      |:  | Precaching Views...
+2026-04-29 17:44:33,893 | MainThread   | [INFO    ] | populate_views      |:  | Precaching Time: 0.814 secs
+2026-04-29 17:44:33,893 | MainThread   | [INFO    ] | init_uniform_distribution|: Initializing beliefs with a Uniform Distribution
+2026-04-29 17:44:33,893 | MainThread   | [INFO    ] | init_uniform_distribution|: Uniform Belief with each cell value: 0.00051440329218107
+2026-05-07 14:55:39,548 | MainThread   | [INFO    ] | populate_views      |:  | Number of observations per grid cell: 18
+2026-05-07 14:55:39,549 | MainThread   | [INFO    ] | populate_views      |:  | Precaching Views...
+2026-05-07 14:55:40,386 | MainThread   | [INFO    ] | populate_views      |:  | Precaching Time: 0.836 secs
+2026-05-07 14:55:40,387 | MainThread   | [INFO    ] | init_uniform_distribution|: Initializing beliefs with a Uniform Distribution
+2026-05-07 14:55:40,387 | MainThread   | [INFO    ] | init_uniform_distribution|: Uniform Belief with each cell value: 0.00051440329218107
+2026-05-07 15:18:08,301 | MainThread   | [INFO    ] | populate_views      |:  | Number of observations per grid cell: 18
+2026-05-07 15:18:08,302 | MainThread   | [INFO    ] | populate_views      |:  | Precaching Views...
+2026-05-07 15:18:09,050 | MainThread   | [INFO    ] | populate_views      |:  | Precaching Time: 0.748 secs
+2026-05-07 15:18:09,050 | MainThread   | [INFO    ] | init_uniform_distribution|: Initializing beliefs with a Uniform Distribution
+2026-05-07 15:18:09,050 | MainThread   | [INFO    ] | init_uniform_distribution|: Uniform Belief with each cell value: 0.00051440329218107

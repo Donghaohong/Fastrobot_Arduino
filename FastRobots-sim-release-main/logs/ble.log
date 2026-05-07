@@ -1,0 +1,35 @@
+2026-04-22 15:19:58,168 | MainThread   | [DEBUG   ] | __init__            |: Python Info: sys.version_info(major=3, minor=12, micro=10, releaselevel='final', serial=0)
+2026-04-22 15:19:58,168 | MainThread   | [DEBUG   ] | __init__            |: System Info: macOS-15.6-arm64-arm-64bit
+2026-04-22 15:19:58,168 | MainThread   | [INFO    ] | _connect            |: Looking for Artemis Nano Peripheral Device: c0:81:c4:22:a9:64
+2026-04-22 15:19:58,169 | MainThread   | [INFO    ] | _get_ble_device     |: Scanning for device with address: c0:81:c4:22:a9:64, service UUID: 789d254e-2393-4828-b10b-3952b9ca360b
+2026-04-22 15:20:08,230 | MainThread   | [INFO    ] | _get_ble_device     |: Found 1 device(s) advertising service 789d254e-2393-4828-b10b-3952b9ca360b
+2026-04-22 15:20:08,230 | MainThread   | [INFO    ] | _get_ble_device     |: Selecting device: 916E591F-7011-B7AC-55D0-A23622AFF175 (name: Artemis BLE)
+2026-04-22 15:20:09,234 | MainThread   | [INFO    ] | _connect            |: Connected to c0:81:c4:22:a9:64
+2026-04-22 15:28:06,247 | MainThread   | [DEBUG   ] | __init__            |: Python Info: sys.version_info(major=3, minor=12, micro=10, releaselevel='final', serial=0)
+2026-04-22 15:28:06,247 | MainThread   | [DEBUG   ] | __init__            |: System Info: macOS-15.6-arm64-arm-64bit
+2026-04-22 15:28:06,247 | MainThread   | [INFO    ] | _connect            |: Looking for Artemis Nano Peripheral Device: c0:81:c4:22:a9:64
+2026-04-22 15:28:06,247 | MainThread   | [INFO    ] | _get_ble_device     |: Scanning for device with address: c0:81:c4:22:a9:64, service UUID: 789d254e-2393-4828-b10b-3952b9ca360b
+2026-04-22 15:28:16,293 | MainThread   | [INFO    ] | _get_ble_device     |: Found 1 device(s) advertising service 789d254e-2393-4828-b10b-3952b9ca360b
+2026-04-22 15:28:16,294 | MainThread   | [INFO    ] | _get_ble_device     |: Selecting device: 916E591F-7011-B7AC-55D0-A23622AFF175 (name: Artemis BLE)
+2026-04-22 15:28:17,357 | MainThread   | [INFO    ] | _connect            |: Connected to c0:81:c4:22:a9:64
+2026-04-22 15:34:10,699 | MainThread   | [DEBUG   ] | __init__            |: Python Info: sys.version_info(major=3, minor=12, micro=10, releaselevel='final', serial=0)
+2026-04-22 15:34:10,699 | MainThread   | [DEBUG   ] | __init__            |: System Info: macOS-15.6-arm64-arm-64bit
+2026-04-22 15:34:10,699 | MainThread   | [INFO    ] | _connect            |: Looking for Artemis Nano Peripheral Device: c0:81:c4:22:a9:64
+2026-04-22 15:34:10,700 | MainThread   | [INFO    ] | _get_ble_device     |: Scanning for device with address: c0:81:c4:22:a9:64, service UUID: 789d254e-2393-4828-b10b-3952b9ca360b
+2026-04-22 15:34:20,746 | MainThread   | [INFO    ] | _get_ble_device     |: Found 1 device(s) advertising service 789d254e-2393-4828-b10b-3952b9ca360b
+2026-04-22 15:34:20,746 | MainThread   | [INFO    ] | _get_ble_device     |: Selecting device: 916E591F-7011-B7AC-55D0-A23622AFF175 (name: Artemis BLE)
+2026-04-22 15:34:21,713 | MainThread   | [INFO    ] | _connect            |: Connected to c0:81:c4:22:a9:64
+2026-04-22 15:39:24,384 | MainThread   | [DEBUG   ] | __init__            |: Python Info: sys.version_info(major=3, minor=12, micro=10, releaselevel='final', serial=0)
+2026-04-22 15:39:24,384 | MainThread   | [DEBUG   ] | __init__            |: System Info: macOS-15.6-arm64-arm-64bit
+2026-04-22 15:39:24,384 | MainThread   | [INFO    ] | _connect            |: Looking for Artemis Nano Peripheral Device: c0:81:c4:22:a9:64
+2026-04-22 15:39:24,385 | MainThread   | [INFO    ] | _get_ble_device     |: Scanning for device with address: c0:81:c4:22:a9:64, service UUID: 789d254e-2393-4828-b10b-3952b9ca360b
+2026-04-22 15:39:34,430 | MainThread   | [INFO    ] | _get_ble_device     |: Found 1 device(s) advertising service 789d254e-2393-4828-b10b-3952b9ca360b
+2026-04-22 15:39:34,430 | MainThread   | [INFO    ] | _get_ble_device     |: Selecting device: 916E591F-7011-B7AC-55D0-A23622AFF175 (name: Artemis BLE)
+2026-04-22 15:39:35,371 | MainThread   | [INFO    ] | _connect            |: Connected to c0:81:c4:22:a9:64
+2026-04-22 15:44:10,556 | MainThread   | [DEBUG   ] | __init__            |: Python Info: sys.version_info(major=3, minor=12, micro=10, releaselevel='final', serial=0)
+2026-04-22 15:44:10,556 | MainThread   | [DEBUG   ] | __init__            |: System Info: macOS-15.6-arm64-arm-64bit
+2026-04-22 15:44:10,557 | MainThread   | [INFO    ] | _connect            |: Looking for Artemis Nano Peripheral Device: c0:81:c4:22:a9:64
+2026-04-22 15:44:10,557 | MainThread   | [INFO    ] | _get_ble_device     |: Scanning for device with address: c0:81:c4:22:a9:64, service UUID: 789d254e-2393-4828-b10b-3952b9ca360b
+2026-04-22 15:44:20,603 | MainThread   | [INFO    ] | _get_ble_device     |: Found 1 device(s) advertising service 789d254e-2393-4828-b10b-3952b9ca360b
+2026-04-22 15:44:20,603 | MainThread   | [INFO    ] | _get_ble_device     |: Selecting device: 916E591F-7011-B7AC-55D0-A23622AFF175 (name: Artemis BLE)
+2026-04-22 15:44:22,206 | MainThread   | [INFO    ] | _connect            |: Connected to c0:81:c4:22:a9:64

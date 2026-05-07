@@ -1,0 +1,155 @@
+2026-01-08 10:40:12,561 | MainThread   | [DEBUG   ] | <module>            |: debug
+2026-01-08 10:40:12,561 | MainThread   | [INFO    ] | <module>            |: info
+2026-01-08 10:40:12,563 | MainThread   | [WARNING ] | <module>            |: warning
+2026-01-08 10:40:12,565 | MainThread   | [ERROR   ] | <module>            |: error
+2026-01-08 10:40:12,566 | MainThread   | [CRITICAL] | <module>            |: critical
+2026-01-08 10:40:17,210 | MainThread   | [DEBUG   ] | __init__            |: Python Info: sys.version_info(major=3, minor=12, micro=10, releaselevel='final', serial=0)
+2026-01-08 10:40:17,210 | MainThread   | [DEBUG   ] | __init__            |: System Info: macOS-15.1.1-arm64-arm-64bit
+2026-01-08 10:40:17,210 | MainThread   | [INFO    ] | _connect            |: Looking for Artemis Nano Peripheral Device: c0:81:31:25:23:64
+2026-01-08 10:52:48,897 | MainThread   | [INFO    ] | exit_handler        |: Exiting...
+2026-01-08 10:52:48,900 | MainThread   | [WARNING ] | exit_handler        |: Could not disconnect before exiting
+2026-01-08 10:52:48,900 | MainThread   | [WARNING ] | exit_handler        |: Not connected to a BLE device
+2026-01-08 10:52:55,714 | MainThread   | [DEBUG   ] | <module>            |: debug
+2026-01-08 10:52:55,715 | MainThread   | [INFO    ] | <module>            |: info
+2026-01-08 10:52:55,717 | MainThread   | [WARNING ] | <module>            |: warning
+2026-01-08 10:52:55,718 | MainThread   | [ERROR   ] | <module>            |: error
+2026-01-08 10:52:55,719 | MainThread   | [CRITICAL] | <module>            |: critical
+2026-01-08 10:52:59,775 | MainThread   | [DEBUG   ] | __init__            |: Python Info: sys.version_info(major=3, minor=12, micro=10, releaselevel='final', serial=0)
+2026-01-08 10:52:59,775 | MainThread   | [DEBUG   ] | __init__            |: System Info: macOS-15.1.1-arm64-arm-64bit
+2026-01-08 10:52:59,776 | MainThread   | [INFO    ] | _connect            |: Looking for Artemis Nano Peripheral Device: c0:81:31:25:23:64
+2026-01-08 10:52:59,777 | MainThread   | [INFO    ] | _get_ble_device     |: Scanning for device with service UUID: d1e59283-ea64-46d2-9619-feda9179e362
+2026-01-08 10:53:09,859 | MainThread   | [INFO    ] | _get_ble_device     |: Found 1 device(s) advertising service d1e59283-ea64-46d2-9619-feda9179e362
+2026-01-08 10:53:09,862 | MainThread   | [INFO    ] | _get_ble_device     |: Selecting device: 896214EC-B8B9-1801-B251-8F8579C5D0EB (name: Artemis BLE)
+2026-01-08 10:55:34,604 | MainThread   | [INFO    ] | exit_handler        |: Exiting...
+2026-01-08 10:55:34,609 | MainThread   | [INFO    ] | exit_handler        |: Gracefully Exiting
+2026-01-08 10:55:46,257 | MainThread   | [DEBUG   ] | <module>            |: debug
+2026-01-08 10:55:46,257 | MainThread   | [INFO    ] | <module>            |: info
+2026-01-08 10:55:46,258 | MainThread   | [WARNING ] | <module>            |: warning
+2026-01-08 10:55:46,259 | MainThread   | [ERROR   ] | <module>            |: error
+2026-01-08 10:55:46,260 | MainThread   | [CRITICAL] | <module>            |: critical
+2026-01-08 10:55:49,165 | MainThread   | [DEBUG   ] | __init__            |: Python Info: sys.version_info(major=3, minor=12, micro=10, releaselevel='final', serial=0)
+2026-01-08 10:55:49,165 | MainThread   | [DEBUG   ] | __init__            |: System Info: macOS-15.1.1-arm64-arm-64bit
+2026-01-08 10:55:49,166 | MainThread   | [INFO    ] | _connect            |: Looking for Artemis Nano Peripheral Device: c0:81:31:25:23:64
+2026-01-08 10:55:49,167 | MainThread   | [INFO    ] | _get_ble_device     |: Scanning for device with service UUID: d1e59283-ea64-46d2-9619-feda9179e362
+2026-01-08 10:55:59,247 | MainThread   | [INFO    ] | _get_ble_device     |: Found 1 device(s) advertising service d1e59283-ea64-46d2-9619-feda9179e362
+2026-01-08 10:55:59,249 | MainThread   | [INFO    ] | _get_ble_device     |: Selecting device: 896214EC-B8B9-1801-B251-8F8579C5D0EB (name: Artemis BLE)
+2026-01-08 10:56:00,001 | MainThread   | [INFO    ] | _connect            |: Connected to c0:81:31:25:23:64
+2026-01-08 12:18:10,126 | MainThread   | [INFO    ] | exit_handler        |: Exiting...
+2026-01-08 12:18:10,129 | MainThread   | [WARNING ] | exit_handler        |: Could not disconnect before exiting
+2026-01-08 12:18:10,130 | MainThread   | [WARNING ] | exit_handler        |: Not connected to a BLE device
+2026-01-08 12:18:10,227 | MainThread   | [WARNING ] | __del__             |: Could not delete BaseBLEController instance before exiting
+2026-01-08 12:18:10,233 | MainThread   | [WARNING ] | __del__             |: Not connected to a BLE device
+2026-01-08 12:18:16,818 | MainThread   | [DEBUG   ] | <module>            |: debug
+2026-01-08 12:18:16,818 | MainThread   | [INFO    ] | <module>            |: info
+2026-01-08 12:18:16,819 | MainThread   | [WARNING ] | <module>            |: warning
+2026-01-08 12:18:16,821 | MainThread   | [ERROR   ] | <module>            |: error
+2026-01-08 12:18:16,822 | MainThread   | [CRITICAL] | <module>            |: critical
+2026-01-08 12:18:20,566 | MainThread   | [DEBUG   ] | __init__            |: Python Info: sys.version_info(major=3, minor=12, micro=10, releaselevel='final', serial=0)
+2026-01-08 12:18:20,566 | MainThread   | [DEBUG   ] | __init__            |: System Info: macOS-15.1.1-arm64-arm-64bit
+2026-01-08 12:18:20,567 | MainThread   | [INFO    ] | _connect            |: Looking for Artemis Nano Peripheral Device: c0:81:31:25:23:64
+2026-01-08 12:18:20,568 | MainThread   | [INFO    ] | _get_ble_device     |: Scanning for device with address: c0:81:31:25:23:64, service UUID: d1e59283-ea64-46d2-9619-feda9179e362
+2026-01-08 12:18:30,651 | MainThread   | [INFO    ] | _get_ble_device     |: Found 1 device(s) advertising service d1e59283-ea64-46d2-9619-feda9179e362
+2026-01-08 12:18:30,654 | MainThread   | [INFO    ] | _get_ble_device     |: Selecting device: 896214EC-B8B9-1801-B251-8F8579C5D0EB (name: Artemis BLE)
+2026-01-08 12:18:31,373 | MainThread   | [INFO    ] | _connect            |: Connected to c0:81:31:25:23:64
+2026-01-21 16:08:24,449 | MainThread   | [DEBUG   ] | <module>            |: debug
+2026-01-21 16:08:24,449 | MainThread   | [INFO    ] | <module>            |: info
+2026-01-21 16:08:24,450 | MainThread   | [WARNING ] | <module>            |: warning
+2026-01-21 16:08:24,451 | MainThread   | [ERROR   ] | <module>            |: error
+2026-01-21 16:08:24,451 | MainThread   | [CRITICAL] | <module>            |: critical
+2026-01-21 16:14:44,129 | MainThread   | [DEBUG   ] | __init__            |: Python Info: sys.version_info(major=3, minor=12, micro=10, releaselevel='final', serial=0)
+2026-01-21 16:14:44,129 | MainThread   | [DEBUG   ] | __init__            |: System Info: macOS-15.6-arm64-arm-64bit
+2026-01-21 16:14:44,130 | MainThread   | [INFO    ] | _connect            |: Looking for Artemis Nano Peripheral Device: c0:81:b4:24:09:64
+2026-01-21 16:14:44,130 | MainThread   | [INFO    ] | _get_ble_device     |: Scanning for device with address: c0:81:b4:24:09:64, service UUID: 854338fb-80c2-4675-9164-9deaf5c6b0ce
+2026-01-21 16:14:56,069 | MainThread   | [INFO    ] | _get_ble_device     |: Found 1 device(s) advertising service 854338fb-80c2-4675-9164-9deaf5c6b0ce
+2026-01-21 16:14:56,070 | MainThread   | [INFO    ] | _get_ble_device     |: Selecting device: 48BFACCB-F2FC-B972-B545-B20BBF6F1355 (name: Artemis BLE)
+2026-01-21 16:14:57,349 | MainThread   | [INFO    ] | _connect            |: Connected to c0:81:b4:24:09:64
+2026-01-21 16:29:47,463 | MainThread   | [DEBUG   ] | __init__            |: Python Info: sys.version_info(major=3, minor=12, micro=10, releaselevel='final', serial=0)
+2026-01-21 16:29:47,464 | MainThread   | [DEBUG   ] | __init__            |: System Info: macOS-15.6-arm64-arm-64bit
+2026-01-21 16:29:47,464 | MainThread   | [INFO    ] | _connect            |: Looking for Artemis Nano Peripheral Device: c0:81:b4:24:09:64
+2026-01-21 16:29:47,465 | MainThread   | [INFO    ] | _get_ble_device     |: Scanning for device with address: c0:81:b4:24:09:64, service UUID: 854338fb-80c2-4675-9164-9deaf5c6b0ce
+2026-01-21 16:29:57,522 | MainThread   | [INFO    ] | _get_ble_device     |: Found 1 device(s) advertising service 854338fb-80c2-4675-9164-9deaf5c6b0ce
+2026-01-21 16:29:57,524 | MainThread   | [INFO    ] | _get_ble_device     |: Selecting device: 48BFACCB-F2FC-B972-B545-B20BBF6F1355 (name: Artemis BLE)
+2026-01-21 16:29:58,383 | MainThread   | [INFO    ] | _connect            |: Connected to c0:81:b4:24:09:64
+2026-01-21 17:06:28,247 | MainThread   | [INFO    ] | _connect            |: Looking for Artemis Nano Peripheral Device: c0:81:b4:24:09:64
+2026-01-21 17:06:28,248 | MainThread   | [INFO    ] | _get_ble_device     |: Scanning for device with address: c0:81:b4:24:09:64, service UUID: 854338fb-80c2-4675-9164-9deaf5c6b0ce
+2026-01-21 17:06:38,287 | MainThread   | [INFO    ] | _get_ble_device     |: Found 0 device(s) advertising service 854338fb-80c2-4675-9164-9deaf5c6b0ce
+2026-01-21 17:06:47,566 | MainThread   | [INFO    ] | _connect            |: Looking for Artemis Nano Peripheral Device: c0:81:b4:24:09:64
+2026-01-21 17:06:47,567 | MainThread   | [INFO    ] | _get_ble_device     |: Scanning for device with address: c0:81:b4:24:09:64, service UUID: 854338fb-80c2-4675-9164-9deaf5c6b0ce
+2026-01-21 17:06:57,598 | MainThread   | [INFO    ] | _get_ble_device     |: Found 0 device(s) advertising service 854338fb-80c2-4675-9164-9deaf5c6b0ce
+2026-01-21 17:09:29,043 | MainThread   | [INFO    ] | _connect            |: Looking for Artemis Nano Peripheral Device: c0:81:b4:24:09:64
+2026-01-21 17:09:29,044 | MainThread   | [INFO    ] | _get_ble_device     |: Scanning for device with address: c0:81:b4:24:09:64, service UUID: 854338fb-80c2-4675-9164-9deaf5c6b0ce
+2026-01-21 17:09:39,073 | MainThread   | [INFO    ] | _get_ble_device     |: Found 1 device(s) advertising service 854338fb-80c2-4675-9164-9deaf5c6b0ce
+2026-01-21 17:09:39,075 | MainThread   | [INFO    ] | _get_ble_device     |: Selecting device: 48BFACCB-F2FC-B972-B545-B20BBF6F1355 (name: Artemis BLE)
+2026-01-21 17:09:40,017 | MainThread   | [INFO    ] | _connect            |: Connected to c0:81:b4:24:09:64
+2026-01-21 18:39:11,073 | MainThread   | [INFO    ] | _connect            |: Looking for Artemis Nano Peripheral Device: c0:81:b4:24:09:64
+2026-01-21 18:39:11,074 | MainThread   | [INFO    ] | _get_ble_device     |: Scanning for device with address: c0:81:b4:24:09:64, service UUID: 854338fb-80c2-4675-9164-9deaf5c6b0ce
+2026-01-21 18:39:21,103 | MainThread   | [INFO    ] | _get_ble_device     |: Found 1 device(s) advertising service 854338fb-80c2-4675-9164-9deaf5c6b0ce
+2026-01-21 18:39:21,105 | MainThread   | [INFO    ] | _get_ble_device     |: Selecting device: 48BFACCB-F2FC-B972-B545-B20BBF6F1355 (name: Artemis BLE)
+2026-01-21 18:39:21,992 | MainThread   | [INFO    ] | _connect            |: Connected to c0:81:b4:24:09:64
+2026-01-21 18:45:32,138 | MainThread   | [INFO    ] | _connect            |: Looking for Artemis Nano Peripheral Device: c0:81:b4:24:09:64
+2026-01-21 18:45:32,139 | MainThread   | [INFO    ] | _get_ble_device     |: Scanning for device with address: c0:81:b4:24:09:64, service UUID: 854338fb-80c2-4675-9164-9deaf5c6b0ce
+2026-01-21 18:45:42,166 | MainThread   | [INFO    ] | _get_ble_device     |: Found 1 device(s) advertising service 854338fb-80c2-4675-9164-9deaf5c6b0ce
+2026-01-21 18:45:42,169 | MainThread   | [INFO    ] | _get_ble_device     |: Selecting device: 48BFACCB-F2FC-B972-B545-B20BBF6F1355 (name: Artemis BLE)
+2026-01-21 18:45:43,121 | MainThread   | [INFO    ] | _connect            |: Connected to c0:81:b4:24:09:64
+2026-01-21 19:08:19,200 | MainThread   | [INFO    ] | _connect            |: Looking for Artemis Nano Peripheral Device: c0:81:b4:24:09:64
+2026-01-21 19:08:19,200 | MainThread   | [INFO    ] | _get_ble_device     |: Scanning for device with address: c0:81:b4:24:09:64, service UUID: 854338fb-80c2-4675-9164-9deaf5c6b0ce
+2026-01-21 19:08:29,231 | MainThread   | [INFO    ] | _get_ble_device     |: Found 1 device(s) advertising service 854338fb-80c2-4675-9164-9deaf5c6b0ce
+2026-01-21 19:08:29,232 | MainThread   | [INFO    ] | _get_ble_device     |: Selecting device: 48BFACCB-F2FC-B972-B545-B20BBF6F1355 (name: Artemis BLE)
+2026-01-21 19:08:30,057 | MainThread   | [INFO    ] | _connect            |: Connected to c0:81:b4:24:09:64
+2026-01-21 19:10:17,238 | MainThread   | [INFO    ] | _connect            |: Looking for Artemis Nano Peripheral Device: c0:81:b4:24:09:64
+2026-01-21 19:10:17,239 | MainThread   | [INFO    ] | _get_ble_device     |: Scanning for device with address: c0:81:b4:24:09:64, service UUID: 854338fb-80c2-4675-9164-9deaf5c6b0ce
+2026-01-21 19:10:27,267 | MainThread   | [INFO    ] | _get_ble_device     |: Found 1 device(s) advertising service 854338fb-80c2-4675-9164-9deaf5c6b0ce
+2026-01-21 19:10:27,269 | MainThread   | [INFO    ] | _get_ble_device     |: Selecting device: 48BFACCB-F2FC-B972-B545-B20BBF6F1355 (name: Artemis BLE)
+2026-01-21 19:10:28,108 | MainThread   | [INFO    ] | _connect            |: Connected to c0:81:b4:24:09:64
+2026-01-21 19:22:06,904 | MainThread   | [INFO    ] | _connect            |: Looking for Artemis Nano Peripheral Device: c0:81:b4:24:09:64
+2026-01-21 19:22:06,905 | MainThread   | [INFO    ] | _get_ble_device     |: Scanning for device with address: c0:81:b4:24:09:64, service UUID: 88f56131-4638-4afb-ab14-e80d8e5f969f
+2026-01-21 19:22:16,936 | MainThread   | [INFO    ] | _get_ble_device     |: Found 0 device(s) advertising service 88f56131-4638-4afb-ab14-e80d8e5f969f
+2026-01-21 19:22:36,987 | MainThread   | [INFO    ] | _connect            |: Looking for Artemis Nano Peripheral Device: c0:81:b4:24:09:64
+2026-01-21 19:22:36,989 | MainThread   | [INFO    ] | _get_ble_device     |: Scanning for device with address: c0:81:b4:24:09:64, service UUID: 854338fb-80c2-4675-9164-9deaf5c6b0ce
+2026-01-21 19:22:47,021 | MainThread   | [INFO    ] | _get_ble_device     |: Found 1 device(s) advertising service 854338fb-80c2-4675-9164-9deaf5c6b0ce
+2026-01-21 19:22:47,023 | MainThread   | [INFO    ] | _get_ble_device     |: Selecting device: 48BFACCB-F2FC-B972-B545-B20BBF6F1355 (name: Artemis BLE)
+2026-01-21 19:22:47,921 | MainThread   | [INFO    ] | _connect            |: Connected to c0:81:b4:24:09:64
+2026-01-21 19:23:26,134 | MainThread   | [INFO    ] | _connect            |: Looking for Artemis Nano Peripheral Device: c0:81:b4:24:09:64
+2026-01-21 19:23:26,134 | MainThread   | [INFO    ] | _get_ble_device     |: Scanning for device with address: c0:81:b4:24:09:64, service UUID: 854338fb-80c2-4675-9164-9deaf5c6b0ce
+2026-01-21 19:23:36,164 | MainThread   | [INFO    ] | _get_ble_device     |: Found 1 device(s) advertising service 854338fb-80c2-4675-9164-9deaf5c6b0ce
+2026-01-21 19:23:36,165 | MainThread   | [INFO    ] | _get_ble_device     |: Selecting device: 48BFACCB-F2FC-B972-B545-B20BBF6F1355 (name: Artemis BLE)
+2026-01-21 19:23:37,062 | MainThread   | [INFO    ] | _connect            |: Connected to c0:81:b4:24:09:64
+2026-01-21 19:23:44,543 | MainThread   | [INFO    ] | _connect            |: Already connected to a BLE device
+2026-01-21 19:23:54,437 | MainThread   | [INFO    ] | _connect            |: Already connected to a BLE device
+2026-01-21 19:24:14,518 | MainThread   | [INFO    ] | _connect            |: Already connected to a BLE device
+2026-01-21 19:24:53,755 | MainThread   | [INFO    ] | _connect            |: Looking for Artemis Nano Peripheral Device: c0:81:b4:24:09:64
+2026-01-21 19:24:53,756 | MainThread   | [INFO    ] | _get_ble_device     |: Scanning for device with address: c0:81:b4:24:09:64, service UUID: 854338fb-80c2-4675-9164-9deaf5c6b0ce
+2026-01-21 19:25:03,787 | MainThread   | [INFO    ] | _get_ble_device     |: Found 1 device(s) advertising service 854338fb-80c2-4675-9164-9deaf5c6b0ce
+2026-01-21 19:25:03,789 | MainThread   | [INFO    ] | _get_ble_device     |: Selecting device: 48BFACCB-F2FC-B972-B545-B20BBF6F1355 (name: Artemis BLE)
+2026-01-21 19:25:04,934 | MainThread   | [INFO    ] | _connect            |: Connected to c0:81:b4:24:09:64
+2026-01-21 19:42:24,439 | MainThread   | [INFO    ] | _connect            |: Looking for Artemis Nano Peripheral Device: c0:81:b4:24:09:64
+2026-01-21 19:42:24,439 | MainThread   | [INFO    ] | _get_ble_device     |: Scanning for device with address: c0:81:b4:24:09:64, service UUID: 854338fb-80c2-4675-9164-9deaf5c6b0ce
+2026-01-21 19:42:34,466 | MainThread   | [INFO    ] | _get_ble_device     |: Found 1 device(s) advertising service 854338fb-80c2-4675-9164-9deaf5c6b0ce
+2026-01-21 19:42:34,468 | MainThread   | [INFO    ] | _get_ble_device     |: Selecting device: 48BFACCB-F2FC-B972-B545-B20BBF6F1355 (name: Artemis BLE)
+2026-01-21 19:42:35,422 | MainThread   | [INFO    ] | _connect            |: Connected to c0:81:b4:24:09:64
+2026-01-21 19:43:42,083 | MainThread   | [INFO    ] | _connect            |: Looking for Artemis Nano Peripheral Device: c0:81:b4:24:09:64
+2026-01-21 19:43:42,084 | MainThread   | [INFO    ] | _get_ble_device     |: Scanning for device with address: c0:81:b4:24:09:64, service UUID: 854338fb-80c2-4675-9164-9deaf5c6b0ce
+2026-01-21 19:43:52,108 | MainThread   | [INFO    ] | _get_ble_device     |: Found 1 device(s) advertising service 854338fb-80c2-4675-9164-9deaf5c6b0ce
+2026-01-21 19:43:52,109 | MainThread   | [INFO    ] | _get_ble_device     |: Selecting device: 48BFACCB-F2FC-B972-B545-B20BBF6F1355 (name: Artemis BLE)
+2026-01-21 19:43:52,912 | MainThread   | [INFO    ] | _connect            |: Connected to c0:81:b4:24:09:64
+2026-01-21 20:03:44,932 | MainThread   | [INFO    ] | _connect            |: Looking for Artemis Nano Peripheral Device: c0:81:b4:24:09:64
+2026-01-21 20:03:44,932 | MainThread   | [INFO    ] | _get_ble_device     |: Scanning for device with address: c0:81:b4:24:09:64, service UUID: 854338fb-80c2-4675-9164-9deaf5c6b0ce
+2026-01-21 20:03:54,962 | MainThread   | [INFO    ] | _get_ble_device     |: Found 1 device(s) advertising service 854338fb-80c2-4675-9164-9deaf5c6b0ce
+2026-01-21 20:03:54,964 | MainThread   | [INFO    ] | _get_ble_device     |: Selecting device: 48BFACCB-F2FC-B972-B545-B20BBF6F1355 (name: Artemis BLE)
+2026-01-21 20:03:55,831 | MainThread   | [INFO    ] | _connect            |: Connected to c0:81:b4:24:09:64
+2026-01-21 20:22:48,943 | MainThread   | [INFO    ] | _connect            |: Looking for Artemis Nano Peripheral Device: c0:81:b4:24:09:64
+2026-01-21 20:22:48,944 | MainThread   | [INFO    ] | _get_ble_device     |: Scanning for device with address: c0:81:b4:24:09:64, service UUID: 854338fb-80c2-4675-9164-9deaf5c6b0ce
+2026-01-21 20:22:58,973 | MainThread   | [INFO    ] | _get_ble_device     |: Found 1 device(s) advertising service 854338fb-80c2-4675-9164-9deaf5c6b0ce
+2026-01-21 20:22:58,975 | MainThread   | [INFO    ] | _get_ble_device     |: Selecting device: 48BFACCB-F2FC-B972-B545-B20BBF6F1355 (name: Artemis BLE)
+2026-01-21 20:23:00,192 | MainThread   | [INFO    ] | _connect            |: Connected to c0:81:b4:24:09:64
+2026-01-21 20:25:48,778 | MainThread   | [INFO    ] | _connect            |: Already connected to a BLE device
+2026-01-21 20:26:34,606 | MainThread   | [INFO    ] | _connect            |: Looking for Artemis Nano Peripheral Device: c0:81:b4:24:09:64
+2026-01-21 20:26:34,607 | MainThread   | [INFO    ] | _get_ble_device     |: Scanning for device with address: c0:81:b4:24:09:64, service UUID: 854338fb-80c2-4675-9164-9deaf5c6b0ce
+2026-01-21 20:26:44,635 | MainThread   | [INFO    ] | _get_ble_device     |: Found 1 device(s) advertising service 854338fb-80c2-4675-9164-9deaf5c6b0ce
+2026-01-21 20:26:44,637 | MainThread   | [INFO    ] | _get_ble_device     |: Selecting device: 48BFACCB-F2FC-B972-B545-B20BBF6F1355 (name: Artemis BLE)
+2026-01-21 20:26:45,465 | MainThread   | [INFO    ] | _connect            |: Connected to c0:81:b4:24:09:64
+2026-01-21 20:29:39,992 | MainThread   | [INFO    ] | _connect            |: Looking for Artemis Nano Peripheral Device: c0:81:b4:24:09:64
+2026-01-21 20:29:39,993 | MainThread   | [INFO    ] | _get_ble_device     |: Scanning for device with address: c0:81:b4:24:09:64, service UUID: 854338fb-80c2-4675-9164-9deaf5c6b0ce
+2026-01-21 20:29:50,025 | MainThread   | [INFO    ] | _get_ble_device     |: Found 1 device(s) advertising service 854338fb-80c2-4675-9164-9deaf5c6b0ce
+2026-01-21 20:29:50,027 | MainThread   | [INFO    ] | _get_ble_device     |: Selecting device: 48BFACCB-F2FC-B972-B545-B20BBF6F1355 (name: Artemis BLE)
+2026-01-21 20:29:50,925 | MainThread   | [INFO    ] | _connect            |: Connected to c0:81:b4:24:09:64
